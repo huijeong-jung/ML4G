@@ -1,7 +1,9 @@
 # ML4G
 
 ## load conda environment 
-conda env create -f project1_base.yml
+- project1_base.yml: default conda environment
+- ml4g_project1.yml: custom conda environment (to be submitted)
+
 
 ## features engineered so far
 - gene length 

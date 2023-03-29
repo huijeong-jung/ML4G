@@ -120,10 +120,10 @@ longIntervals <- promoters(genes,
                           upstream  = 500000 ,
                           downstream= 500000)
 
-geneOverlaps <- findOverlaps(longIntervals,shortIntevals) %>%
+geneOverlaps <- findOverlaps(longIntervals, shortIntevals) %>%
                 as.data.frame()
 
-geneOverlaps <- split(geneOverlaps,f = geneOverlaps$queryHits)
+geneOverlaps <- split(geneOverlaps, f=geneOverlaps$queryHits)
 
 
 # Register the parallel backend
@@ -134,7 +134,7 @@ registerDoParallel(cores = num_cores)
 
 ########################## CREATE FEATURES ##################################
 
-res <- foreach(j = 1:3, .packages = c("dplyr","GenomicRanges")) %dopar% {
+res <- foreach(j = 1:3, .packages = c("dplyr", "GenomicRanges")) %dopar% {
   features  <- list() # Initialize features for cell line j
   
   shortOverlaps <- findOverlaps(shortIntevals,beds[[cell_lines[j]]]) %>%
