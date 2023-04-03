@@ -1,5 +1,9 @@
 # ML4G
 
+## Group members
+- Gudmundur Björgvin Magnusson 
+- Hui Jeong Jung 
+
 ## Conda environment
 - project1_base.yml: default conda environment
 - project1.yml: custom R conda environment (to be submitted)
@@ -9,9 +13,16 @@ We extracted the "scores" of the peaks from different experimentation methods. F
 
 - gene length 
 - sum of peak scores in the near and far region of the TSS 
-- average of peak scores 
-- max of peak scores
+- average of peak scores in the near and far region of the TSS 
+- max of peak scores 
 - number of peaks in the near and far region of the TSS
 - number of peaks in the far region that are not near a TSS 
+- max score of a peak in the far region that is not near a TSS 
+- mean score of a peak in the far region that is not near a TSS
 - distance to closest peak (signed and unsigned)
-- 
+- score of the closest peak 
+- score of the furthest peak 
+- sum of the scores of peaks that are in the 10 "bins", or one subsection of the near region split into 10 folds 
+- number of genes in the far neighborhood
+- which strand the gene is located on (+ or - binarized)
+
