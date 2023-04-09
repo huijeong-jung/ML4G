@@ -1,0 +1,790 @@
+Source Name,Sample,Disease
+patient5_A12,patient5,normal
+patient5_A14,patient5,normal
+patient5_A20,patient5,normal
+patient5_A22,patient5,normal
+patient5_A4,patient5,normal
+patient5_A5,patient5,normal
+patient5_A6,patient5,normal
+patient5_B1,patient5,normal
+patient5_B12,patient5,normal
+patient5_B13,patient5,normal
+patient5_B14,patient5,normal
+patient5_B15,patient5,normal
+patient5_B16,patient5,normal
+patient5_B18,patient5,normal
+patient5_B19,patient5,normal
+patient5_B20,patient5,normal
+patient5_B23,patient5,normal
+patient5_B24,patient5,normal
+patient5_B3,patient5,normal
+patient5_B4,patient5,normal
+patient5_B5,patient5,normal
+patient5_B6,patient5,normal
+patient5_B7,patient5,normal
+patient5_C10,patient5,normal
+patient5_C12,patient5,normal
+patient5_C14,patient5,normal
+patient5_C18,patient5,normal
+patient5_C2,patient5,normal
+patient5_C4,patient5,normal
+patient5_C5,patient5,normal
+patient5_C7,patient5,normal
+patient5_C8,patient5,normal
+patient5_D1,patient5,normal
+patient5_D10,patient5,normal
+patient5_D12,patient5,normal
+patient5_D14,patient5,normal
+patient5_D15,patient5,normal
+patient5_D17,patient5,normal
+patient5_D18,patient5,normal
+patient5_D2,patient5,normal
+patient5_D22,patient5,normal
+patient5_D23,patient5,normal
+patient5_D3,patient5,normal
+patient5_D5,patient5,normal
+patient5_D6,patient5,normal
+patient5_D8,patient5,normal
+patient5_D9,patient5,normal
+patient5_E10,patient5,normal
+patient5_E12,patient5,normal
+patient5_E14,patient5,normal
+patient5_E2,patient5,normal
+patient5_E20,patient5,normal
+patient5_E22,patient5,normal
+patient5_E24,patient5,normal
+patient5_E6,patient5,normal
+patient5_E7,patient5,normal
+patient5_E8,patient5,normal
+patient5_E9,patient5,normal
+patient5_F1,patient5,normal
+patient5_F10,patient5,normal
+patient5_F11,patient5,normal
+patient5_F12,patient5,normal
+patient5_F13,patient5,normal
+patient5_F14,patient5,normal
+patient5_F15,patient5,normal
+patient5_F16,patient5,normal
+patient5_F18,patient5,normal
+patient5_F19,patient5,normal
+patient5_F2,patient5,normal
+patient5_F20,patient5,normal
+patient5_F22,patient5,normal
+patient5_F23,patient5,normal
+patient5_F3,patient5,normal
+patient5_F4,patient5,normal
+patient5_F5,patient5,normal
+patient5_F7,patient5,normal
+patient5_F8,patient5,normal
+patient5_G10,patient5,normal
+patient5_G12,patient5,normal
+patient5_G13,patient5,normal
+patient5_G14,patient5,normal
+patient5_G15,patient5,normal
+patient5_G16,patient5,normal
+patient5_G18,patient5,normal
+patient5_G2,patient5,normal
+patient5_G22,patient5,normal
+patient5_G23,patient5,normal
+patient5_G6,patient5,normal
+patient5_G8,patient5,normal
+patient5_H1,patient5,normal
+patient5_H10,patient5,normal
+patient5_H11,patient5,normal
+patient5_H12,patient5,normal
+patient5_H14,patient5,normal
+patient5_H15,patient5,normal
+patient5_H16,patient5,normal
+patient5_H17,patient5,normal
+patient5_H22,patient5,normal
+patient5_H23,patient5,normal
+patient5_H3,patient5,normal
+patient5_H4,patient5,normal
+patient5_H5,patient5,normal
+patient5_H6,patient5,normal
+patient5_H7,patient5,normal
+patient5_H9,patient5,normal
+patient5_I11,patient5,normal
+patient5_I12,patient5,normal
+patient5_I13,patient5,normal
+patient5_I16,patient5,normal
+patient5_I17,patient5,normal
+patient5_I18,patient5,normal
+patient5_I19,patient5,normal
+patient5_I2,patient5,normal
+patient5_I20,patient5,normal
+patient5_I22,patient5,normal
+patient5_I4,patient5,normal
+patient5_I5,patient5,normal
+patient5_I6,patient5,normal
+patient5_I8,patient5,normal
+patient5_J1,patient5,normal
+patient5_J11,patient5,normal
+patient5_J12,patient5,normal
+patient5_J13,patient5,normal
+patient5_J15,patient5,normal
+patient5_J17,patient5,normal
+patient5_J18,patient5,normal
+patient5_J19,patient5,normal
+patient5_J2,patient5,normal
+patient5_J20,patient5,normal
+patient5_J21,patient5,normal
+patient5_J22,patient5,normal
+patient5_J23,patient5,normal
+patient5_J24,patient5,normal
+patient5_J3,patient5,normal
+patient5_J5,patient5,normal
+patient5_J7,patient5,normal
+patient5_J8,patient5,normal
+patient5_K13,patient5,normal
+patient5_K15,patient5,normal
+patient5_K16,patient5,normal
+patient5_K20,patient5,normal
+patient5_K23,patient5,normal
+patient5_K3,patient5,normal
+patient5_K4,patient5,normal
+patient5_K8,patient5,normal
+patient5_L1,patient5,normal
+patient5_L11,patient5,normal
+patient5_L14,patient5,normal
+patient5_L16,patient5,normal
+patient5_L17,patient5,normal
+patient5_L18,patient5,normal
+patient5_L19,patient5,normal
+patient5_L2,patient5,normal
+patient5_L21,patient5,normal
+patient5_L22,patient5,normal
+patient5_L23,patient5,normal
+patient5_L24,patient5,normal
+patient5_L3,patient5,normal
+patient5_L4,patient5,normal
+patient5_L5,patient5,normal
+patient5_L7,patient5,normal
+patient5_M12,patient5,normal
+patient5_M18,patient5,normal
+patient5_M2,patient5,normal
+patient5_M22,patient5,normal
+patient5_M4,patient5,normal
+patient5_M8,patient5,normal
+patient5_N1,patient5,normal
+patient5_N13,patient5,normal
+patient5_N16,patient5,normal
+patient5_N19,patient5,normal
+patient5_N2,patient5,normal
+patient5_N20,patient5,normal
+patient5_N21,patient5,normal
+patient5_N4,patient5,normal
+patient5_N5,patient5,normal
+patient5_N6,patient5,normal
+patient5_N8,patient5,normal
+patient5_N9,patient5,normal
+patient5_O1,patient5,normal
+patient5_O11,patient5,normal
+patient5_O12,patient5,normal
+patient5_O13,patient5,normal
+patient5_O14,patient5,normal
+patient5_O16,patient5,normal
+patient5_O19,patient5,normal
+patient5_O20,patient5,normal
+patient5_O22,patient5,normal
+patient5_O23,patient5,normal
+patient5_O3,patient5,normal
+patient5_O5,patient5,normal
+patient5_O8,patient5,normal
+patient5_P1,patient5,normal
+patient5_P10,patient5,normal
+patient5_P11,patient5,normal
+patient5_P12,patient5,normal
+patient5_P2,patient5,normal
+patient5_P21,patient5,normal
+patient5_P23,patient5,normal
+patient5_P3,patient5,normal
+patient5_P4,patient5,normal
+patient5_P5,patient5,normal
+patient5_P8,patient5,normal
+patient7_A1,patient7,type II diabetes mellitus
+patient7_A11,patient7,type II diabetes mellitus
+patient7_A12,patient7,type II diabetes mellitus
+patient7_A13,patient7,type II diabetes mellitus
+patient7_A14,patient7,type II diabetes mellitus
+patient7_A15,patient7,type II diabetes mellitus
+patient7_A16,patient7,type II diabetes mellitus
+patient7_A17,patient7,type II diabetes mellitus
+patient7_A19,patient7,type II diabetes mellitus
+patient7_A3,patient7,type II diabetes mellitus
+patient7_A5,patient7,type II diabetes mellitus
+patient7_A6,patient7,type II diabetes mellitus
+patient7_A7,patient7,type II diabetes mellitus
+patient7_A9,patient7,type II diabetes mellitus
+patient7_B1,patient7,type II diabetes mellitus
+patient7_B10,patient7,type II diabetes mellitus
+patient7_B11,patient7,type II diabetes mellitus
+patient7_B12,patient7,type II diabetes mellitus
+patient7_B13,patient7,type II diabetes mellitus
+patient7_B14,patient7,type II diabetes mellitus
+patient7_B15,patient7,type II diabetes mellitus
+patient7_B18,patient7,type II diabetes mellitus
+patient7_B21,patient7,type II diabetes mellitus
+patient7_B24,patient7,type II diabetes mellitus
+patient7_B3,patient7,type II diabetes mellitus
+patient7_B4,patient7,type II diabetes mellitus
+patient7_B5,patient7,type II diabetes mellitus
+patient7_B6,patient7,type II diabetes mellitus
+patient7_B7,patient7,type II diabetes mellitus
+patient7_B8,patient7,type II diabetes mellitus
+patient7_C1,patient7,type II diabetes mellitus
+patient7_C10,patient7,type II diabetes mellitus
+patient7_C11,patient7,type II diabetes mellitus
+patient7_C13,patient7,type II diabetes mellitus
+patient7_C14,patient7,type II diabetes mellitus
+patient7_C15,patient7,type II diabetes mellitus
+patient7_C16,patient7,type II diabetes mellitus
+patient7_C17,patient7,type II diabetes mellitus
+patient7_C19,patient7,type II diabetes mellitus
+patient7_C2,patient7,type II diabetes mellitus
+patient7_C21,patient7,type II diabetes mellitus
+patient7_C22,patient7,type II diabetes mellitus
+patient7_C23,patient7,type II diabetes mellitus
+patient7_C24,patient7,type II diabetes mellitus
+patient7_C3,patient7,type II diabetes mellitus
+patient7_C4,patient7,type II diabetes mellitus
+patient7_C5,patient7,type II diabetes mellitus
+patient7_C6,patient7,type II diabetes mellitus
+patient7_C7,patient7,type II diabetes mellitus
+patient7_C8,patient7,type II diabetes mellitus
+patient7_C9,patient7,type II diabetes mellitus
+patient7_D1,patient7,type II diabetes mellitus
+patient7_D10,patient7,type II diabetes mellitus
+patient7_D11,patient7,type II diabetes mellitus
+patient7_D12,patient7,type II diabetes mellitus
+patient7_D14,patient7,type II diabetes mellitus
+patient7_D15,patient7,type II diabetes mellitus
+patient7_D19,patient7,type II diabetes mellitus
+patient7_D2,patient7,type II diabetes mellitus
+patient7_D21,patient7,type II diabetes mellitus
+patient7_D22,patient7,type II diabetes mellitus
+patient7_D23,patient7,type II diabetes mellitus
+patient7_D3,patient7,type II diabetes mellitus
+patient7_D4,patient7,type II diabetes mellitus
+patient7_D6,patient7,type II diabetes mellitus
+patient7_D8,patient7,type II diabetes mellitus
+patient7_D9,patient7,type II diabetes mellitus
+patient7_E1,patient7,type II diabetes mellitus
+patient7_E11,patient7,type II diabetes mellitus
+patient7_E12,patient7,type II diabetes mellitus
+patient7_E13,patient7,type II diabetes mellitus
+patient7_E15,patient7,type II diabetes mellitus
+patient7_E16,patient7,type II diabetes mellitus
+patient7_E17,patient7,type II diabetes mellitus
+patient7_E19,patient7,type II diabetes mellitus
+patient7_E2,patient7,type II diabetes mellitus
+patient7_E22,patient7,type II diabetes mellitus
+patient7_E23,patient7,type II diabetes mellitus
+patient7_E24,patient7,type II diabetes mellitus
+patient7_E3,patient7,type II diabetes mellitus
+patient7_E5,patient7,type II diabetes mellitus
+patient7_E7,patient7,type II diabetes mellitus
+patient7_E8,patient7,type II diabetes mellitus
+patient7_F10,patient7,type II diabetes mellitus
+patient7_F12,patient7,type II diabetes mellitus
+patient7_F13,patient7,type II diabetes mellitus
+patient7_F15,patient7,type II diabetes mellitus
+patient7_F16,patient7,type II diabetes mellitus
+patient7_F19,patient7,type II diabetes mellitus
+patient7_F2,patient7,type II diabetes mellitus
+patient7_F21,patient7,type II diabetes mellitus
+patient7_F23,patient7,type II diabetes mellitus
+patient7_F24,patient7,type II diabetes mellitus
+patient7_F3,patient7,type II diabetes mellitus
+patient7_F4,patient7,type II diabetes mellitus
+patient7_F5,patient7,type II diabetes mellitus
+patient7_F7,patient7,type II diabetes mellitus
+patient7_F8,patient7,type II diabetes mellitus
+patient7_G1,patient7,type II diabetes mellitus
+patient7_G10,patient7,type II diabetes mellitus
+patient7_G11,patient7,type II diabetes mellitus
+patient7_G13,patient7,type II diabetes mellitus
+patient7_G14,patient7,type II diabetes mellitus
+patient7_G15,patient7,type II diabetes mellitus
+patient7_G17,patient7,type II diabetes mellitus
+patient7_G18,patient7,type II diabetes mellitus
+patient7_G19,patient7,type II diabetes mellitus
+patient7_G20,patient7,type II diabetes mellitus
+patient7_G21,patient7,type II diabetes mellitus
+patient7_G22,patient7,type II diabetes mellitus
+patient7_G23,patient7,type II diabetes mellitus
+patient7_G3,patient7,type II diabetes mellitus
+patient7_G4,patient7,type II diabetes mellitus
+patient7_G5,patient7,type II diabetes mellitus
+patient7_G8,patient7,type II diabetes mellitus
+patient7_G9,patient7,type II diabetes mellitus
+patient7_H1,patient7,type II diabetes mellitus
+patient7_H10,patient7,type II diabetes mellitus
+patient7_H11,patient7,type II diabetes mellitus
+patient7_H12,patient7,type II diabetes mellitus
+patient7_H14,patient7,type II diabetes mellitus
+patient7_H16,patient7,type II diabetes mellitus
+patient7_H17,patient7,type II diabetes mellitus
+patient7_H18,patient7,type II diabetes mellitus
+patient7_H19,patient7,type II diabetes mellitus
+patient7_H2,patient7,type II diabetes mellitus
+patient7_H20,patient7,type II diabetes mellitus
+patient7_H23,patient7,type II diabetes mellitus
+patient7_H24,patient7,type II diabetes mellitus
+patient7_H3,patient7,type II diabetes mellitus
+patient7_H6,patient7,type II diabetes mellitus
+patient7_H7,patient7,type II diabetes mellitus
+patient7_H8,patient7,type II diabetes mellitus
+patient7_H9,patient7,type II diabetes mellitus
+patient7_I1,patient7,type II diabetes mellitus
+patient7_I10,patient7,type II diabetes mellitus
+patient7_I11,patient7,type II diabetes mellitus
+patient7_I12,patient7,type II diabetes mellitus
+patient7_I15,patient7,type II diabetes mellitus
+patient7_I16,patient7,type II diabetes mellitus
+patient7_I17,patient7,type II diabetes mellitus
+patient7_I18,patient7,type II diabetes mellitus
+patient7_I19,patient7,type II diabetes mellitus
+patient7_I2,patient7,type II diabetes mellitus
+patient7_I21,patient7,type II diabetes mellitus
+patient7_I22,patient7,type II diabetes mellitus
+patient7_I23,patient7,type II diabetes mellitus
+patient7_I24,patient7,type II diabetes mellitus
+patient7_I3,patient7,type II diabetes mellitus
+patient7_I4,patient7,type II diabetes mellitus
+patient7_I5,patient7,type II diabetes mellitus
+patient7_I6,patient7,type II diabetes mellitus
+patient7_I7,patient7,type II diabetes mellitus
+patient7_I8,patient7,type II diabetes mellitus
+patient7_J1,patient7,type II diabetes mellitus
+patient7_J10,patient7,type II diabetes mellitus
+patient7_J13,patient7,type II diabetes mellitus
+patient7_J14,patient7,type II diabetes mellitus
+patient7_J15,patient7,type II diabetes mellitus
+patient7_J16,patient7,type II diabetes mellitus
+patient7_J17,patient7,type II diabetes mellitus
+patient7_J18,patient7,type II diabetes mellitus
+patient7_J19,patient7,type II diabetes mellitus
+patient7_J2,patient7,type II diabetes mellitus
+patient7_J20,patient7,type II diabetes mellitus
+patient7_J21,patient7,type II diabetes mellitus
+patient7_J22,patient7,type II diabetes mellitus
+patient7_J23,patient7,type II diabetes mellitus
+patient7_J4,patient7,type II diabetes mellitus
+patient7_J5,patient7,type II diabetes mellitus
+patient7_J7,patient7,type II diabetes mellitus
+patient7_J8,patient7,type II diabetes mellitus
+patient7_J9,patient7,type II diabetes mellitus
+patient7_K1,patient7,type II diabetes mellitus
+patient7_K10,patient7,type II diabetes mellitus
+patient7_K11,patient7,type II diabetes mellitus
+patient7_K12,patient7,type II diabetes mellitus
+patient7_K14,patient7,type II diabetes mellitus
+patient7_K15,patient7,type II diabetes mellitus
+patient7_K16,patient7,type II diabetes mellitus
+patient7_K17,patient7,type II diabetes mellitus
+patient7_K18,patient7,type II diabetes mellitus
+patient7_K19,patient7,type II diabetes mellitus
+patient7_K2,patient7,type II diabetes mellitus
+patient7_K21,patient7,type II diabetes mellitus
+patient7_K22,patient7,type II diabetes mellitus
+patient7_K23,patient7,type II diabetes mellitus
+patient7_K3,patient7,type II diabetes mellitus
+patient7_K5,patient7,type II diabetes mellitus
+patient7_K6,patient7,type II diabetes mellitus
+patient7_K7,patient7,type II diabetes mellitus
+patient7_K8,patient7,type II diabetes mellitus
+patient7_L1,patient7,type II diabetes mellitus
+patient7_L13,patient7,type II diabetes mellitus
+patient7_L14,patient7,type II diabetes mellitus
+patient7_L15,patient7,type II diabetes mellitus
+patient7_L16,patient7,type II diabetes mellitus
+patient7_L17,patient7,type II diabetes mellitus
+patient7_L19,patient7,type II diabetes mellitus
+patient7_L2,patient7,type II diabetes mellitus
+patient7_L20,patient7,type II diabetes mellitus
+patient7_L22,patient7,type II diabetes mellitus
+patient7_L23,patient7,type II diabetes mellitus
+patient7_L24,patient7,type II diabetes mellitus
+patient7_L4,patient7,type II diabetes mellitus
+patient7_L5,patient7,type II diabetes mellitus
+patient7_L6,patient7,type II diabetes mellitus
+patient7_L8,patient7,type II diabetes mellitus
+patient7_L9,patient7,type II diabetes mellitus
+patient7_M10,patient7,type II diabetes mellitus
+patient7_M11,patient7,type II diabetes mellitus
+patient7_M12,patient7,type II diabetes mellitus
+patient7_M13,patient7,type II diabetes mellitus
+patient7_M14,patient7,type II diabetes mellitus
+patient7_M15,patient7,type II diabetes mellitus
+patient7_M16,patient7,type II diabetes mellitus
+patient7_M17,patient7,type II diabetes mellitus
+patient7_M19,patient7,type II diabetes mellitus
+patient7_M2,patient7,type II diabetes mellitus
+patient7_M20,patient7,type II diabetes mellitus
+patient7_M22,patient7,type II diabetes mellitus
+patient7_M23,patient7,type II diabetes mellitus
+patient7_M5,patient7,type II diabetes mellitus
+patient7_M6,patient7,type II diabetes mellitus
+patient7_M7,patient7,type II diabetes mellitus
+patient7_M8,patient7,type II diabetes mellitus
+patient7_M9,patient7,type II diabetes mellitus
+patient7_N1,patient7,type II diabetes mellitus
+patient7_N10,patient7,type II diabetes mellitus
+patient7_N11,patient7,type II diabetes mellitus
+patient7_N12,patient7,type II diabetes mellitus
+patient7_N13,patient7,type II diabetes mellitus
+patient7_N14,patient7,type II diabetes mellitus
+patient7_N16,patient7,type II diabetes mellitus
+patient7_N18,patient7,type II diabetes mellitus
+patient7_N20,patient7,type II diabetes mellitus
+patient7_N21,patient7,type II diabetes mellitus
+patient7_N22,patient7,type II diabetes mellitus
+patient7_N23,patient7,type II diabetes mellitus
+patient7_N24,patient7,type II diabetes mellitus
+patient7_N3,patient7,type II diabetes mellitus
+patient7_N4,patient7,type II diabetes mellitus
+patient7_N5,patient7,type II diabetes mellitus
+patient7_N6,patient7,type II diabetes mellitus
+patient7_N7,patient7,type II diabetes mellitus
+patient7_N8,patient7,type II diabetes mellitus
+patient7_N9,patient7,type II diabetes mellitus
+patient7_O1,patient7,type II diabetes mellitus
+patient7_O11,patient7,type II diabetes mellitus
+patient7_O13,patient7,type II diabetes mellitus
+patient7_O14,patient7,type II diabetes mellitus
+patient7_O16,patient7,type II diabetes mellitus
+patient7_O17,patient7,type II diabetes mellitus
+patient7_O18,patient7,type II diabetes mellitus
+patient7_O2,patient7,type II diabetes mellitus
+patient7_O20,patient7,type II diabetes mellitus
+patient7_O22,patient7,type II diabetes mellitus
+patient7_O23,patient7,type II diabetes mellitus
+patient7_O24,patient7,type II diabetes mellitus
+patient7_O3,patient7,type II diabetes mellitus
+patient7_O5,patient7,type II diabetes mellitus
+patient7_O6,patient7,type II diabetes mellitus
+patient7_O7,patient7,type II diabetes mellitus
+patient7_O9,patient7,type II diabetes mellitus
+patient7_P1,patient7,type II diabetes mellitus
+patient7_P11,patient7,type II diabetes mellitus
+patient7_P13,patient7,type II diabetes mellitus
+patient7_P14,patient7,type II diabetes mellitus
+patient7_P15,patient7,type II diabetes mellitus
+patient7_P16,patient7,type II diabetes mellitus
+patient7_P17,patient7,type II diabetes mellitus
+patient7_P18,patient7,type II diabetes mellitus
+patient7_P19,patient7,type II diabetes mellitus
+patient7_P2,patient7,type II diabetes mellitus
+patient7_P20,patient7,type II diabetes mellitus
+patient7_P21,patient7,type II diabetes mellitus
+patient7_P22,patient7,type II diabetes mellitus
+patient7_P23,patient7,type II diabetes mellitus
+patient7_P24,patient7,type II diabetes mellitus
+patient7_P4,patient7,type II diabetes mellitus
+patient7_P5,patient7,type II diabetes mellitus
+patient7_P6,patient7,type II diabetes mellitus
+patient7_P8,patient7,type II diabetes mellitus
+patient7_P9,patient7,type II diabetes mellitus
+patient6_A1,patient6,type II diabetes mellitus
+patient6_A10,patient6,type II diabetes mellitus
+patient6_A11,patient6,type II diabetes mellitus
+patient6_A12,patient6,type II diabetes mellitus
+patient6_A13,patient6,type II diabetes mellitus
+patient6_A14,patient6,type II diabetes mellitus
+patient6_A15,patient6,type II diabetes mellitus
+patient6_A16,patient6,type II diabetes mellitus
+patient6_A17,patient6,type II diabetes mellitus
+patient6_A19,patient6,type II diabetes mellitus
+patient6_A2,patient6,type II diabetes mellitus
+patient6_A20,patient6,type II diabetes mellitus
+patient6_A21,patient6,type II diabetes mellitus
+patient6_A22,patient6,type II diabetes mellitus
+patient6_A23,patient6,type II diabetes mellitus
+patient6_A24,patient6,type II diabetes mellitus
+patient6_A3,patient6,type II diabetes mellitus
+patient6_A4,patient6,type II diabetes mellitus
+patient6_A5,patient6,type II diabetes mellitus
+patient6_A6,patient6,type II diabetes mellitus
+patient6_A7,patient6,type II diabetes mellitus
+patient6_A8,patient6,type II diabetes mellitus
+patient6_A9,patient6,type II diabetes mellitus
+patient6_B1,patient6,type II diabetes mellitus
+patient6_B10,patient6,type II diabetes mellitus
+patient6_B11,patient6,type II diabetes mellitus
+patient6_B12,patient6,type II diabetes mellitus
+patient6_B13,patient6,type II diabetes mellitus
+patient6_B14,patient6,type II diabetes mellitus
+patient6_B17,patient6,type II diabetes mellitus
+patient6_B18,patient6,type II diabetes mellitus
+patient6_B20,patient6,type II diabetes mellitus
+patient6_B23,patient6,type II diabetes mellitus
+patient6_B24,patient6,type II diabetes mellitus
+patient6_B3,patient6,type II diabetes mellitus
+patient6_B4,patient6,type II diabetes mellitus
+patient6_B5,patient6,type II diabetes mellitus
+patient6_B6,patient6,type II diabetes mellitus
+patient6_B7,patient6,type II diabetes mellitus
+patient6_B9,patient6,type II diabetes mellitus
+patient6_C1,patient6,type II diabetes mellitus
+patient6_C10,patient6,type II diabetes mellitus
+patient6_C11,patient6,type II diabetes mellitus
+patient6_C13,patient6,type II diabetes mellitus
+patient6_C14,patient6,type II diabetes mellitus
+patient6_C15,patient6,type II diabetes mellitus
+patient6_C16,patient6,type II diabetes mellitus
+patient6_C17,patient6,type II diabetes mellitus
+patient6_C19,patient6,type II diabetes mellitus
+patient6_C2,patient6,type II diabetes mellitus
+patient6_C20,patient6,type II diabetes mellitus
+patient6_C22,patient6,type II diabetes mellitus
+patient6_C23,patient6,type II diabetes mellitus
+patient6_C24,patient6,type II diabetes mellitus
+patient6_C3,patient6,type II diabetes mellitus
+patient6_C4,patient6,type II diabetes mellitus
+patient6_C6,patient6,type II diabetes mellitus
+patient6_C8,patient6,type II diabetes mellitus
+patient6_D1,patient6,type II diabetes mellitus
+patient6_D10,patient6,type II diabetes mellitus
+patient6_D12,patient6,type II diabetes mellitus
+patient6_D14,patient6,type II diabetes mellitus
+patient6_D16,patient6,type II diabetes mellitus
+patient6_D17,patient6,type II diabetes mellitus
+patient6_D18,patient6,type II diabetes mellitus
+patient6_D19,patient6,type II diabetes mellitus
+patient6_D2,patient6,type II diabetes mellitus
+patient6_D21,patient6,type II diabetes mellitus
+patient6_D22,patient6,type II diabetes mellitus
+patient6_D24,patient6,type II diabetes mellitus
+patient6_D3,patient6,type II diabetes mellitus
+patient6_D4,patient6,type II diabetes mellitus
+patient6_D5,patient6,type II diabetes mellitus
+patient6_D7,patient6,type II diabetes mellitus
+patient6_D8,patient6,type II diabetes mellitus
+patient6_D9,patient6,type II diabetes mellitus
+patient6_E1,patient6,type II diabetes mellitus
+patient6_E10,patient6,type II diabetes mellitus
+patient6_E11,patient6,type II diabetes mellitus
+patient6_E14,patient6,type II diabetes mellitus
+patient6_E15,patient6,type II diabetes mellitus
+patient6_E16,patient6,type II diabetes mellitus
+patient6_E18,patient6,type II diabetes mellitus
+patient6_E19,patient6,type II diabetes mellitus
+patient6_E2,patient6,type II diabetes mellitus
+patient6_E20,patient6,type II diabetes mellitus
+patient6_E21,patient6,type II diabetes mellitus
+patient6_E22,patient6,type II diabetes mellitus
+patient6_E23,patient6,type II diabetes mellitus
+patient6_E3,patient6,type II diabetes mellitus
+patient6_E4,patient6,type II diabetes mellitus
+patient6_E5,patient6,type II diabetes mellitus
+patient6_E6,patient6,type II diabetes mellitus
+patient6_E8,patient6,type II diabetes mellitus
+patient6_E9,patient6,type II diabetes mellitus
+patient6_F1,patient6,type II diabetes mellitus
+patient6_F10,patient6,type II diabetes mellitus
+patient6_F12,patient6,type II diabetes mellitus
+patient6_F15,patient6,type II diabetes mellitus
+patient6_F16,patient6,type II diabetes mellitus
+patient6_F17,patient6,type II diabetes mellitus
+patient6_F18,patient6,type II diabetes mellitus
+patient6_F19,patient6,type II diabetes mellitus
+patient6_F2,patient6,type II diabetes mellitus
+patient6_F20,patient6,type II diabetes mellitus
+patient6_F21,patient6,type II diabetes mellitus
+patient6_F22,patient6,type II diabetes mellitus
+patient6_F23,patient6,type II diabetes mellitus
+patient6_F24,patient6,type II diabetes mellitus
+patient6_F3,patient6,type II diabetes mellitus
+patient6_F5,patient6,type II diabetes mellitus
+patient6_F7,patient6,type II diabetes mellitus
+patient6_F8,patient6,type II diabetes mellitus
+patient6_F9,patient6,type II diabetes mellitus
+patient6_G1,patient6,type II diabetes mellitus
+patient6_G10,patient6,type II diabetes mellitus
+patient6_G11,patient6,type II diabetes mellitus
+patient6_G13,patient6,type II diabetes mellitus
+patient6_G14,patient6,type II diabetes mellitus
+patient6_G16,patient6,type II diabetes mellitus
+patient6_G17,patient6,type II diabetes mellitus
+patient6_G18,patient6,type II diabetes mellitus
+patient6_G19,patient6,type II diabetes mellitus
+patient6_G2,patient6,type II diabetes mellitus
+patient6_G21,patient6,type II diabetes mellitus
+patient6_G22,patient6,type II diabetes mellitus
+patient6_G23,patient6,type II diabetes mellitus
+patient6_G24,patient6,type II diabetes mellitus
+patient6_G4,patient6,type II diabetes mellitus
+patient6_G7,patient6,type II diabetes mellitus
+patient6_G8,patient6,type II diabetes mellitus
+patient6_G9,patient6,type II diabetes mellitus
+patient6_H10,patient6,type II diabetes mellitus
+patient6_H12,patient6,type II diabetes mellitus
+patient6_H14,patient6,type II diabetes mellitus
+patient6_H16,patient6,type II diabetes mellitus
+patient6_H17,patient6,type II diabetes mellitus
+patient6_H18,patient6,type II diabetes mellitus
+patient6_H19,patient6,type II diabetes mellitus
+patient6_H2,patient6,type II diabetes mellitus
+patient6_H20,patient6,type II diabetes mellitus
+patient6_H21,patient6,type II diabetes mellitus
+patient6_H22,patient6,type II diabetes mellitus
+patient6_H23,patient6,type II diabetes mellitus
+patient6_H24,patient6,type II diabetes mellitus
+patient6_H3,patient6,type II diabetes mellitus
+patient6_H4,patient6,type II diabetes mellitus
+patient6_H5,patient6,type II diabetes mellitus
+patient6_H6,patient6,type II diabetes mellitus
+patient6_H8,patient6,type II diabetes mellitus
+patient6_H9,patient6,type II diabetes mellitus
+patient6_I1,patient6,type II diabetes mellitus
+patient6_I10,patient6,type II diabetes mellitus
+patient6_I11,patient6,type II diabetes mellitus
+patient6_I12,patient6,type II diabetes mellitus
+patient6_I13,patient6,type II diabetes mellitus
+patient6_I14,patient6,type II diabetes mellitus
+patient6_I15,patient6,type II diabetes mellitus
+patient6_I16,patient6,type II diabetes mellitus
+patient6_I17,patient6,type II diabetes mellitus
+patient6_I18,patient6,type II diabetes mellitus
+patient6_I19,patient6,type II diabetes mellitus
+patient6_I20,patient6,type II diabetes mellitus
+patient6_I21,patient6,type II diabetes mellitus
+patient6_I22,patient6,type II diabetes mellitus
+patient6_I24,patient6,type II diabetes mellitus
+patient6_I3,patient6,type II diabetes mellitus
+patient6_I4,patient6,type II diabetes mellitus
+patient6_I5,patient6,type II diabetes mellitus
+patient6_I6,patient6,type II diabetes mellitus
+patient6_I7,patient6,type II diabetes mellitus
+patient6_I8,patient6,type II diabetes mellitus
+patient6_I9,patient6,type II diabetes mellitus
+patient6_J1,patient6,type II diabetes mellitus
+patient6_J11,patient6,type II diabetes mellitus
+patient6_J12,patient6,type II diabetes mellitus
+patient6_J13,patient6,type II diabetes mellitus
+patient6_J14,patient6,type II diabetes mellitus
+patient6_J17,patient6,type II diabetes mellitus
+patient6_J18,patient6,type II diabetes mellitus
+patient6_J19,patient6,type II diabetes mellitus
+patient6_J2,patient6,type II diabetes mellitus
+patient6_J20,patient6,type II diabetes mellitus
+patient6_J21,patient6,type II diabetes mellitus
+patient6_J22,patient6,type II diabetes mellitus
+patient6_J24,patient6,type II diabetes mellitus
+patient6_J3,patient6,type II diabetes mellitus
+patient6_J4,patient6,type II diabetes mellitus
+patient6_J5,patient6,type II diabetes mellitus
+patient6_J6,patient6,type II diabetes mellitus
+patient6_J8,patient6,type II diabetes mellitus
+patient6_K1,patient6,type II diabetes mellitus
+patient6_K10,patient6,type II diabetes mellitus
+patient6_K11,patient6,type II diabetes mellitus
+patient6_K12,patient6,type II diabetes mellitus
+patient6_K14,patient6,type II diabetes mellitus
+patient6_K15,patient6,type II diabetes mellitus
+patient6_K17,patient6,type II diabetes mellitus
+patient6_K18,patient6,type II diabetes mellitus
+patient6_K19,patient6,type II diabetes mellitus
+patient6_K2,patient6,type II diabetes mellitus
+patient6_K20,patient6,type II diabetes mellitus
+patient6_K21,patient6,type II diabetes mellitus
+patient6_K22,patient6,type II diabetes mellitus
+patient6_K23,patient6,type II diabetes mellitus
+patient6_K24,patient6,type II diabetes mellitus
+patient6_K3,patient6,type II diabetes mellitus
+patient6_K4,patient6,type II diabetes mellitus
+patient6_K6,patient6,type II diabetes mellitus
+patient6_K7,patient6,type II diabetes mellitus
+patient6_L1,patient6,type II diabetes mellitus
+patient6_L11,patient6,type II diabetes mellitus
+patient6_L12,patient6,type II diabetes mellitus
+patient6_L13,patient6,type II diabetes mellitus
+patient6_L14,patient6,type II diabetes mellitus
+patient6_L15,patient6,type II diabetes mellitus
+patient6_L16,patient6,type II diabetes mellitus
+patient6_L17,patient6,type II diabetes mellitus
+patient6_L19,patient6,type II diabetes mellitus
+patient6_L2,patient6,type II diabetes mellitus
+patient6_L21,patient6,type II diabetes mellitus
+patient6_L23,patient6,type II diabetes mellitus
+patient6_L24,patient6,type II diabetes mellitus
+patient6_L3,patient6,type II diabetes mellitus
+patient6_L4,patient6,type II diabetes mellitus
+patient6_L5,patient6,type II diabetes mellitus
+patient6_L6,patient6,type II diabetes mellitus
+patient6_L7,patient6,type II diabetes mellitus
+patient6_M1,patient6,type II diabetes mellitus
+patient6_M13,patient6,type II diabetes mellitus
+patient6_M14,patient6,type II diabetes mellitus
+patient6_M15,patient6,type II diabetes mellitus
+patient6_M16,patient6,type II diabetes mellitus
+patient6_M18,patient6,type II diabetes mellitus
+patient6_M19,patient6,type II diabetes mellitus
+patient6_M2,patient6,type II diabetes mellitus
+patient6_M20,patient6,type II diabetes mellitus
+patient6_M21,patient6,type II diabetes mellitus
+patient6_M22,patient6,type II diabetes mellitus
+patient6_M23,patient6,type II diabetes mellitus
+patient6_M24,patient6,type II diabetes mellitus
+patient6_M3,patient6,type II diabetes mellitus
+patient6_M4,patient6,type II diabetes mellitus
+patient6_M7,patient6,type II diabetes mellitus
+patient6_M8,patient6,type II diabetes mellitus
+patient6_N1,patient6,type II diabetes mellitus
+patient6_N10,patient6,type II diabetes mellitus
+patient6_N11,patient6,type II diabetes mellitus
+patient6_N12,patient6,type II diabetes mellitus
+patient6_N13,patient6,type II diabetes mellitus
+patient6_N14,patient6,type II diabetes mellitus
+patient6_N15,patient6,type II diabetes mellitus
+patient6_N16,patient6,type II diabetes mellitus
+patient6_N18,patient6,type II diabetes mellitus
+patient6_N19,patient6,type II diabetes mellitus
+patient6_N2,patient6,type II diabetes mellitus
+patient6_N20,patient6,type II diabetes mellitus
+patient6_N21,patient6,type II diabetes mellitus
+patient6_N23,patient6,type II diabetes mellitus
+patient6_N3,patient6,type II diabetes mellitus
+patient6_N4,patient6,type II diabetes mellitus
+patient6_N6,patient6,type II diabetes mellitus
+patient6_N7,patient6,type II diabetes mellitus
+patient6_N8,patient6,type II diabetes mellitus
+patient6_N9,patient6,type II diabetes mellitus
+patient6_O1,patient6,type II diabetes mellitus
+patient6_O10,patient6,type II diabetes mellitus
+patient6_O12,patient6,type II diabetes mellitus
+patient6_O13,patient6,type II diabetes mellitus
+patient6_O14,patient6,type II diabetes mellitus
+patient6_O15,patient6,type II diabetes mellitus
+patient6_O17,patient6,type II diabetes mellitus
+patient6_O19,patient6,type II diabetes mellitus
+patient6_O2,patient6,type II diabetes mellitus
+patient6_O21,patient6,type II diabetes mellitus
+patient6_O22,patient6,type II diabetes mellitus
+patient6_O23,patient6,type II diabetes mellitus
+patient6_O24,patient6,type II diabetes mellitus
+patient6_O3,patient6,type II diabetes mellitus
+patient6_O4,patient6,type II diabetes mellitus
+patient6_O5,patient6,type II diabetes mellitus
+patient6_O6,patient6,type II diabetes mellitus
+patient6_O7,patient6,type II diabetes mellitus
+patient6_O8,patient6,type II diabetes mellitus
+patient6_O9,patient6,type II diabetes mellitus
+patient6_P1,patient6,type II diabetes mellitus
+patient6_P10,patient6,type II diabetes mellitus
+patient6_P11,patient6,type II diabetes mellitus
+patient6_P12,patient6,type II diabetes mellitus
+patient6_P13,patient6,type II diabetes mellitus
+patient6_P14,patient6,type II diabetes mellitus
+patient6_P17,patient6,type II diabetes mellitus
+patient6_P18,patient6,type II diabetes mellitus
+patient6_P19,patient6,type II diabetes mellitus
+patient6_P2,patient6,type II diabetes mellitus
+patient6_P20,patient6,type II diabetes mellitus
+patient6_P21,patient6,type II diabetes mellitus
+patient6_P22,patient6,type II diabetes mellitus
+patient6_P23,patient6,type II diabetes mellitus
+patient6_P4,patient6,type II diabetes mellitus
+patient6_P7,patient6,type II diabetes mellitus
+patient6_P9,patient6,type II diabetes mellitus
