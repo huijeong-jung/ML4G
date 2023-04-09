@@ -1,0 +1,979 @@
+Source Name,Sample,Disease,Celltype
+patient1_A10,patient1,type II diabetes mellitus,acinar cell
+patient1_A12,patient1,type II diabetes mellitus,alpha cell
+patient1_A13,patient1,type II diabetes mellitus,gamma cell
+patient1_A15,patient1,type II diabetes mellitus,gamma cell
+patient1_A17,patient1,type II diabetes mellitus,gamma cell
+patient1_A18,patient1,type II diabetes mellitus,gamma cell
+patient1_A19,patient1,type II diabetes mellitus,alpha cell
+patient1_A20,patient1,type II diabetes mellitus,gamma cell
+patient1_A23,patient1,type II diabetes mellitus,alpha cell
+patient1_A24,patient1,type II diabetes mellitus,delta cell
+patient1_A4,patient1,type II diabetes mellitus,gamma cell
+patient1_A5,patient1,type II diabetes mellitus,alpha cell
+patient1_A6,patient1,type II diabetes mellitus,alpha cell
+patient1_A8,patient1,type II diabetes mellitus,alpha cell
+patient1_B10,patient1,type II diabetes mellitus,gamma cell
+patient1_B11,patient1,type II diabetes mellitus,alpha cell
+patient1_B12,patient1,type II diabetes mellitus,gamma cell
+patient1_B13,patient1,type II diabetes mellitus,alpha cell
+patient1_B16,patient1,type II diabetes mellitus,alpha cell
+patient1_B17,patient1,type II diabetes mellitus,gamma cell
+patient1_B18,patient1,type II diabetes mellitus,gamma cell
+patient1_B21,patient1,type II diabetes mellitus,alpha cell
+patient1_B22,patient1,type II diabetes mellitus,gamma cell
+patient1_B24,patient1,type II diabetes mellitus,gamma cell
+patient1_B3,patient1,type II diabetes mellitus,unclassified endocrine cell
+patient1_B4,patient1,type II diabetes mellitus,gamma cell
+patient1_B5,patient1,type II diabetes mellitus,gamma cell
+patient1_B6,patient1,type II diabetes mellitus,beta cell
+patient1_B7,patient1,type II diabetes mellitus,alpha cell
+patient1_B8,patient1,type II diabetes mellitus,ductal cell
+patient1_C1,patient1,type II diabetes mellitus,endothelial cell
+patient1_C10,patient1,type II diabetes mellitus,delta cell
+patient1_C11,patient1,type II diabetes mellitus,acinar cell
+patient1_C12,patient1,type II diabetes mellitus,gamma cell
+patient1_C14,patient1,type II diabetes mellitus,alpha cell
+patient1_C15,patient1,type II diabetes mellitus,alpha cell
+patient1_C16,patient1,type II diabetes mellitus,co-expression cell
+patient1_C17,patient1,type II diabetes mellitus,alpha cell
+patient1_C18,patient1,type II diabetes mellitus,beta cell
+patient1_C20,patient1,type II diabetes mellitus,alpha cell
+patient1_C21,patient1,type II diabetes mellitus,gamma cell
+patient1_C22,patient1,type II diabetes mellitus,alpha cell
+patient1_C4,patient1,type II diabetes mellitus,alpha cell
+patient1_C9,patient1,type II diabetes mellitus,delta cell
+patient1_D1,patient1,type II diabetes mellitus,alpha cell
+patient1_D11,patient1,type II diabetes mellitus,gamma cell
+patient1_D12,patient1,type II diabetes mellitus,alpha cell
+patient1_D13,patient1,type II diabetes mellitus,alpha cell
+patient1_D15,patient1,type II diabetes mellitus,gamma cell
+patient1_D17,patient1,type II diabetes mellitus,gamma cell
+patient1_D18,patient1,type II diabetes mellitus,gamma cell
+patient1_D19,patient1,type II diabetes mellitus,alpha cell
+patient1_D2,patient1,type II diabetes mellitus,alpha cell
+patient1_D21,patient1,type II diabetes mellitus,gamma cell
+patient1_D23,patient1,type II diabetes mellitus,gamma cell
+patient1_D24,patient1,type II diabetes mellitus,gamma cell
+patient1_D5,patient1,type II diabetes mellitus,alpha cell
+patient1_D6,patient1,type II diabetes mellitus,alpha cell
+patient1_D7,patient1,type II diabetes mellitus,alpha cell
+patient1_D8,patient1,type II diabetes mellitus,unclassified endocrine cell
+patient1_D9,patient1,type II diabetes mellitus,beta cell
+patient1_E1,patient1,type II diabetes mellitus,alpha cell
+patient1_E10,patient1,type II diabetes mellitus,alpha cell
+patient1_E11,patient1,type II diabetes mellitus,gamma cell
+patient1_E14,patient1,type II diabetes mellitus,gamma cell
+patient1_E15,patient1,type II diabetes mellitus,beta cell
+patient1_E16,patient1,type II diabetes mellitus,beta cell
+patient1_E18,patient1,type II diabetes mellitus,gamma cell
+patient1_E19,patient1,type II diabetes mellitus,alpha cell
+patient1_E20,patient1,type II diabetes mellitus,gamma cell
+patient1_E21,patient1,type II diabetes mellitus,alpha cell
+patient1_E22,patient1,type II diabetes mellitus,alpha cell
+patient1_E23,patient1,type II diabetes mellitus,alpha cell
+patient1_E24,patient1,type II diabetes mellitus,beta cell
+patient1_E3,patient1,type II diabetes mellitus,alpha cell
+patient1_E4,patient1,type II diabetes mellitus,gamma cell
+patient1_E6,patient1,type II diabetes mellitus,alpha cell
+patient1_E7,patient1,type II diabetes mellitus,gamma cell
+patient1_E8,patient1,type II diabetes mellitus,gamma cell
+patient1_E9,patient1,type II diabetes mellitus,gamma cell
+patient1_F1,patient1,type II diabetes mellitus,acinar cell
+patient1_F10,patient1,type II diabetes mellitus,alpha cell
+patient1_F11,patient1,type II diabetes mellitus,gamma cell
+patient1_F12,patient1,type II diabetes mellitus,alpha cell
+patient1_F13,patient1,type II diabetes mellitus,gamma cell
+patient1_F14,patient1,type II diabetes mellitus,gamma cell
+patient1_F15,patient1,type II diabetes mellitus,alpha cell
+patient1_F16,patient1,type II diabetes mellitus,gamma cell
+patient1_F17,patient1,type II diabetes mellitus,delta cell
+patient1_F18,patient1,type II diabetes mellitus,PSC cell
+patient1_F19,patient1,type II diabetes mellitus,alpha cell
+patient1_F2,patient1,type II diabetes mellitus,gamma cell
+patient1_F20,patient1,type II diabetes mellitus,gamma cell
+patient1_F22,patient1,type II diabetes mellitus,alpha cell
+patient1_F3,patient1,type II diabetes mellitus,alpha cell
+patient1_F7,patient1,type II diabetes mellitus,alpha cell
+patient1_G1,patient1,type II diabetes mellitus,alpha cell
+patient1_G10,patient1,type II diabetes mellitus,alpha cell
+patient1_G12,patient1,type II diabetes mellitus,alpha cell
+patient1_G14,patient1,type II diabetes mellitus,alpha cell
+patient1_G16,patient1,type II diabetes mellitus,gamma cell
+patient1_G17,patient1,type II diabetes mellitus,alpha cell
+patient1_G19,patient1,type II diabetes mellitus,alpha cell
+patient1_G2,patient1,type II diabetes mellitus,alpha cell
+patient1_G21,patient1,type II diabetes mellitus,gamma cell
+patient1_G22,patient1,type II diabetes mellitus,alpha cell
+patient1_G23,patient1,type II diabetes mellitus,alpha cell
+patient1_G24,patient1,type II diabetes mellitus,alpha cell
+patient1_G3,patient1,type II diabetes mellitus,gamma cell
+patient1_G4,patient1,type II diabetes mellitus,gamma cell
+patient1_G8,patient1,type II diabetes mellitus,gamma cell
+patient1_G9,patient1,type II diabetes mellitus,gamma cell
+patient1_H1,patient1,type II diabetes mellitus,gamma cell
+patient1_H14,patient1,type II diabetes mellitus,gamma cell
+patient1_H15,patient1,type II diabetes mellitus,alpha cell
+patient1_H17,patient1,type II diabetes mellitus,alpha cell
+patient1_H18,patient1,type II diabetes mellitus,ductal cell
+patient1_H2,patient1,type II diabetes mellitus,alpha cell
+patient1_H20,patient1,type II diabetes mellitus,alpha cell
+patient1_H21,patient1,type II diabetes mellitus,alpha cell
+patient1_H22,patient1,type II diabetes mellitus,alpha cell
+patient1_H23,patient1,type II diabetes mellitus,beta cell
+patient1_H24,patient1,type II diabetes mellitus,gamma cell
+patient1_H4,patient1,type II diabetes mellitus,alpha cell
+patient1_H5,patient1,type II diabetes mellitus,delta cell
+patient1_H6,patient1,type II diabetes mellitus,beta cell
+patient1_H9,patient1,type II diabetes mellitus,alpha cell
+patient1_I1,patient1,type II diabetes mellitus,alpha cell
+patient1_I10,patient1,type II diabetes mellitus,gamma cell
+patient1_I14,patient1,type II diabetes mellitus,alpha cell
+patient1_I15,patient1,type II diabetes mellitus,gamma cell
+patient1_I16,patient1,type II diabetes mellitus,gamma cell
+patient1_I17,patient1,type II diabetes mellitus,alpha cell
+patient1_I18,patient1,type II diabetes mellitus,alpha cell
+patient1_I2,patient1,type II diabetes mellitus,alpha cell
+patient1_I20,patient1,type II diabetes mellitus,alpha cell
+patient1_I22,patient1,type II diabetes mellitus,alpha cell
+patient1_I23,patient1,type II diabetes mellitus,alpha cell
+patient1_I24,patient1,type II diabetes mellitus,alpha cell
+patient1_I5,patient1,type II diabetes mellitus,alpha cell
+patient1_I6,patient1,type II diabetes mellitus,acinar cell
+patient1_I7,patient1,type II diabetes mellitus,gamma cell
+patient1_I8,patient1,type II diabetes mellitus,alpha cell
+patient1_J1,patient1,type II diabetes mellitus,alpha cell
+patient1_J11,patient1,type II diabetes mellitus,alpha cell
+patient1_J13,patient1,type II diabetes mellitus,alpha cell
+patient1_J14,patient1,type II diabetes mellitus,delta cell
+patient1_J15,patient1,type II diabetes mellitus,alpha cell
+patient1_J16,patient1,type II diabetes mellitus,acinar cell
+patient1_J18,patient1,type II diabetes mellitus,alpha cell
+patient1_J2,patient1,type II diabetes mellitus,alpha cell
+patient1_J20,patient1,type II diabetes mellitus,alpha cell
+patient1_J22,patient1,type II diabetes mellitus,gamma cell
+patient1_J24,patient1,type II diabetes mellitus,alpha cell
+patient1_J3,patient1,type II diabetes mellitus,gamma cell
+patient1_J5,patient1,type II diabetes mellitus,gamma cell
+patient1_J7,patient1,type II diabetes mellitus,alpha cell
+patient1_J9,patient1,type II diabetes mellitus,gamma cell
+patient1_K10,patient1,type II diabetes mellitus,acinar cell
+patient1_K12,patient1,type II diabetes mellitus,alpha cell
+patient1_K17,patient1,type II diabetes mellitus,alpha cell
+patient1_K18,patient1,type II diabetes mellitus,alpha cell
+patient1_K19,patient1,type II diabetes mellitus,acinar cell
+patient1_K2,patient1,type II diabetes mellitus,gamma cell
+patient1_K20,patient1,type II diabetes mellitus,alpha cell
+patient1_K22,patient1,type II diabetes mellitus,alpha cell
+patient1_K23,patient1,type II diabetes mellitus,alpha cell
+patient1_K24,patient1,type II diabetes mellitus,alpha cell
+patient1_K4,patient1,type II diabetes mellitus,alpha cell
+patient1_K8,patient1,type II diabetes mellitus,gamma cell
+patient1_L1,patient1,type II diabetes mellitus,gamma cell
+patient1_L10,patient1,type II diabetes mellitus,alpha cell
+patient1_L11,patient1,type II diabetes mellitus,delta cell
+patient1_L13,patient1,type II diabetes mellitus,gamma cell
+patient1_L14,patient1,type II diabetes mellitus,acinar cell
+patient1_L15,patient1,type II diabetes mellitus,gamma cell
+patient1_L18,patient1,type II diabetes mellitus,alpha cell
+patient1_L19,patient1,type II diabetes mellitus,alpha cell
+patient1_L2,patient1,type II diabetes mellitus,alpha cell
+patient1_L21,patient1,type II diabetes mellitus,alpha cell
+patient1_L23,patient1,type II diabetes mellitus,alpha cell
+patient1_L24,patient1,type II diabetes mellitus,gamma cell
+patient1_L3,patient1,type II diabetes mellitus,alpha cell
+patient1_L4,patient1,type II diabetes mellitus,alpha cell
+patient1_L5,patient1,type II diabetes mellitus,alpha cell
+patient1_L7,patient1,type II diabetes mellitus,alpha cell
+patient1_L8,patient1,type II diabetes mellitus,alpha cell
+patient1_M1,patient1,type II diabetes mellitus,gamma cell
+patient1_M10,patient1,type II diabetes mellitus,alpha cell
+patient1_M15,patient1,type II diabetes mellitus,alpha cell
+patient1_M18,patient1,type II diabetes mellitus,alpha cell
+patient1_M19,patient1,type II diabetes mellitus,alpha cell
+patient1_M2,patient1,type II diabetes mellitus,alpha cell
+patient1_M21,patient1,type II diabetes mellitus,alpha cell
+patient1_M23,patient1,type II diabetes mellitus,alpha cell
+patient1_M24,patient1,type II diabetes mellitus,alpha cell
+patient1_M3,patient1,type II diabetes mellitus,gamma cell
+patient1_M4,patient1,type II diabetes mellitus,alpha cell
+patient1_M5,patient1,type II diabetes mellitus,alpha cell
+patient1_M6,patient1,type II diabetes mellitus,alpha cell
+patient1_M7,patient1,type II diabetes mellitus,alpha cell
+patient1_M8,patient1,type II diabetes mellitus,epsilon cell
+patient1_M9,patient1,type II diabetes mellitus,alpha cell
+patient1_N1,patient1,type II diabetes mellitus,alpha cell
+patient1_N10,patient1,type II diabetes mellitus,beta cell
+patient1_N12,patient1,type II diabetes mellitus,alpha cell
+patient1_N13,patient1,type II diabetes mellitus,alpha cell
+patient1_N15,patient1,type II diabetes mellitus,alpha cell
+patient1_N16,patient1,type II diabetes mellitus,gamma cell
+patient1_N17,patient1,type II diabetes mellitus,alpha cell
+patient1_N19,patient1,type II diabetes mellitus,alpha cell
+patient1_N2,patient1,type II diabetes mellitus,alpha cell
+patient1_N20,patient1,type II diabetes mellitus,gamma cell
+patient1_N21,patient1,type II diabetes mellitus,delta cell
+patient1_N22,patient1,type II diabetes mellitus,alpha cell
+patient1_N24,patient1,type II diabetes mellitus,alpha cell
+patient1_N5,patient1,type II diabetes mellitus,alpha cell
+patient1_N6,patient1,type II diabetes mellitus,alpha cell
+patient1_N7,patient1,type II diabetes mellitus,alpha cell
+patient1_N8,patient1,type II diabetes mellitus,alpha cell
+patient1_N9,patient1,type II diabetes mellitus,alpha cell
+patient1_O10,patient1,type II diabetes mellitus,alpha cell
+patient1_O11,patient1,type II diabetes mellitus,gamma cell
+patient1_O12,patient1,type II diabetes mellitus,beta cell
+patient1_O13,patient1,type II diabetes mellitus,alpha cell
+patient1_O14,patient1,type II diabetes mellitus,alpha cell
+patient1_O16,patient1,type II diabetes mellitus,alpha cell
+patient1_O20,patient1,type II diabetes mellitus,alpha cell
+patient1_O22,patient1,type II diabetes mellitus,alpha cell
+patient1_O23,patient1,type II diabetes mellitus,gamma cell
+patient1_O24,patient1,type II diabetes mellitus,ductal cell
+patient1_O3,patient1,type II diabetes mellitus,alpha cell
+patient1_O4,patient1,type II diabetes mellitus,gamma cell
+patient1_O6,patient1,type II diabetes mellitus,alpha cell
+patient1_O9,patient1,type II diabetes mellitus,alpha cell
+patient1_P1,patient1,type II diabetes mellitus,unclassified endocrine cell
+patient1_P11,patient1,type II diabetes mellitus,alpha cell
+patient1_P12,patient1,type II diabetes mellitus,gamma cell
+patient1_P14,patient1,type II diabetes mellitus,alpha cell
+patient1_P17,patient1,type II diabetes mellitus,alpha cell
+patient1_P18,patient1,type II diabetes mellitus,alpha cell
+patient1_P2,patient1,type II diabetes mellitus,alpha cell
+patient1_P21,patient1,type II diabetes mellitus,alpha cell
+patient1_P22,patient1,type II diabetes mellitus,alpha cell
+patient1_P24,patient1,type II diabetes mellitus,gamma cell
+patient1_P3,patient1,type II diabetes mellitus,PSC cell
+patient1_P5,patient1,type II diabetes mellitus,delta cell
+patient1_P7,patient1,type II diabetes mellitus,alpha cell
+patient1_P9,patient1,type II diabetes mellitus,gamma cell
+patient3_A10,patient3,normal,delta cell
+patient3_A14,patient3,normal,alpha cell
+patient3_A16,patient3,normal,beta cell
+patient3_A19,patient3,normal,alpha cell
+patient3_A2,patient3,normal,alpha cell
+patient3_A21,patient3,normal,delta cell
+patient3_A22,patient3,normal,PSC cell
+patient3_A23,patient3,normal,endothelial cell
+patient3_A3,patient3,normal,beta cell
+patient3_A5,patient3,normal,gamma cell
+patient3_A9,patient3,normal,alpha cell
+patient3_B1,patient3,normal,alpha cell
+patient3_B10,patient3,normal,beta cell
+patient3_B11,patient3,normal,beta cell
+patient3_B13,patient3,normal,co-expression cell
+patient3_B14,patient3,normal,ductal cell
+patient3_B15,patient3,normal,alpha cell
+patient3_B16,patient3,normal,alpha cell
+patient3_B18,patient3,normal,alpha cell
+patient3_B20,patient3,normal,gamma cell
+patient3_B21,patient3,normal,alpha cell
+patient3_B22,patient3,normal,beta cell
+patient3_B23,patient3,normal,gamma cell
+patient3_B24,patient3,normal,PSC cell
+patient3_B3,patient3,normal,alpha cell
+patient3_B4,patient3,normal,delta cell
+patient3_B6,patient3,normal,gamma cell
+patient3_B7,patient3,normal,co-expression cell
+patient3_B8,patient3,normal,gamma cell
+patient3_B9,patient3,normal,delta cell
+patient3_C10,patient3,normal,delta cell
+patient3_C11,patient3,normal,alpha cell
+patient3_C13,patient3,normal,epsilon cell
+patient3_C14,patient3,normal,gamma cell
+patient3_C16,patient3,normal,alpha cell
+patient3_C17,patient3,normal,beta cell
+patient3_C22,patient3,normal,unclassified endocrine cell
+patient3_C23,patient3,normal,gamma cell
+patient3_D1,patient3,normal,alpha cell
+patient3_D12,patient3,normal,alpha cell
+patient3_D13,patient3,normal,acinar cell
+patient3_D14,patient3,normal,alpha cell
+patient3_D15,patient3,normal,alpha cell
+patient3_D16,patient3,normal,alpha cell
+patient3_D17,patient3,normal,alpha cell
+patient3_D18,patient3,normal,epsilon cell
+patient3_D2,patient3,normal,alpha cell
+patient3_D21,patient3,normal,alpha cell
+patient3_D22,patient3,normal,alpha cell
+patient3_D23,patient3,normal,alpha cell
+patient3_D24,patient3,normal,gamma cell
+patient3_D5,patient3,normal,alpha cell
+patient3_D6,patient3,normal,delta cell
+patient3_D7,patient3,normal,beta cell
+patient3_D9,patient3,normal,gamma cell
+patient3_E10,patient3,normal,co-expression cell
+patient3_E12,patient3,normal,unclassified endocrine cell
+patient3_E14,patient3,normal,alpha cell
+patient3_E16,patient3,normal,beta cell
+patient3_E18,patient3,normal,alpha cell
+patient3_E2,patient3,normal,endothelial cell
+patient3_E21,patient3,normal,beta cell
+patient3_E23,patient3,normal,gamma cell
+patient3_E24,patient3,normal,alpha cell
+patient3_E6,patient3,normal,ductal cell
+patient3_E9,patient3,normal,PSC cell
+patient3_F1,patient3,normal,gamma cell
+patient3_F10,patient3,normal,alpha cell
+patient3_F11,patient3,normal,beta cell
+patient3_F12,patient3,normal,alpha cell
+patient3_F13,patient3,normal,beta cell
+patient3_F14,patient3,normal,epsilon cell
+patient3_F15,patient3,normal,gamma cell
+patient3_F16,patient3,normal,endothelial cell
+patient3_F17,patient3,normal,beta cell
+patient3_F18,patient3,normal,gamma cell
+patient3_F19,patient3,normal,alpha cell
+patient3_F2,patient3,normal,delta cell
+patient3_F20,patient3,normal,alpha cell
+patient3_F23,patient3,normal,acinar cell
+patient3_F24,patient3,normal,alpha cell
+patient3_F3,patient3,normal,alpha cell
+patient3_F4,patient3,normal,alpha cell
+patient3_F5,patient3,normal,alpha cell
+patient3_F8,patient3,normal,ductal cell
+patient3_F9,patient3,normal,alpha cell
+patient3_G10,patient3,normal,endothelial cell
+patient3_G11,patient3,normal,ductal cell
+patient3_G12,patient3,normal,beta cell
+patient3_G13,patient3,normal,alpha cell
+patient3_G15,patient3,normal,alpha cell
+patient3_G16,patient3,normal,co-expression cell
+patient3_G18,patient3,normal,beta cell
+patient3_G19,patient3,normal,alpha cell
+patient3_G2,patient3,normal,alpha cell
+patient3_G20,patient3,normal,gamma cell
+patient3_G21,patient3,normal,beta cell
+patient3_G24,patient3,normal,alpha cell
+patient3_G3,patient3,normal,alpha cell
+patient3_G4,patient3,normal,beta cell
+patient3_G6,patient3,normal,alpha cell
+patient3_G8,patient3,normal,beta cell
+patient3_G9,patient3,normal,alpha cell
+patient3_H1,patient3,normal,alpha cell
+patient3_H10,patient3,normal,alpha cell
+patient3_H11,patient3,normal,alpha cell
+patient3_H12,patient3,normal,alpha cell
+patient3_H14,patient3,normal,gamma cell
+patient3_H16,patient3,normal,acinar cell
+patient3_H17,patient3,normal,beta cell
+patient3_H18,patient3,normal,beta cell
+patient3_H19,patient3,normal,gamma cell
+patient3_H2,patient3,normal,alpha cell
+patient3_H22,patient3,normal,beta cell
+patient3_H4,patient3,normal,alpha cell
+patient3_H5,patient3,normal,beta cell
+patient3_H6,patient3,normal,alpha cell
+patient3_I10,patient3,normal,ductal cell
+patient3_I12,patient3,normal,alpha cell
+patient3_I13,patient3,normal,endothelial cell
+patient3_I17,patient3,normal,endothelial cell
+patient3_I18,patient3,normal,gamma cell
+patient3_I19,patient3,normal,PSC cell
+patient3_I2,patient3,normal,alpha cell
+patient3_I21,patient3,normal,alpha cell
+patient3_I22,patient3,normal,gamma cell
+patient3_I23,patient3,normal,co-expression cell
+patient3_I24,patient3,normal,alpha cell
+patient3_I3,patient3,normal,alpha cell
+patient3_I7,patient3,normal,delta cell
+patient3_I8,patient3,normal,alpha cell
+patient3_J12,patient3,normal,alpha cell
+patient3_J15,patient3,normal,co-expression cell
+patient3_J17,patient3,normal,alpha cell
+patient3_J18,patient3,normal,PSC cell
+patient3_J20,patient3,normal,alpha cell
+patient3_J22,patient3,normal,alpha cell
+patient3_J23,patient3,normal,alpha cell
+patient3_J24,patient3,normal,PSC cell
+patient3_J3,patient3,normal,beta cell
+patient3_J4,patient3,normal,delta cell
+patient3_J5,patient3,normal,ductal cell
+patient3_J6,patient3,normal,alpha cell
+patient3_J7,patient3,normal,beta cell
+patient3_J8,patient3,normal,alpha cell
+patient3_J9,patient3,normal,gamma cell
+patient3_K1,patient3,normal,alpha cell
+patient3_K12,patient3,normal,alpha cell
+patient3_K14,patient3,normal,gamma cell
+patient3_K19,patient3,normal,beta cell
+patient3_K20,patient3,normal,delta cell
+patient3_K22,patient3,normal,beta cell
+patient3_K23,patient3,normal,ductal cell
+patient3_K5,patient3,normal,alpha cell
+patient3_K6,patient3,normal,alpha cell
+patient3_L1,patient3,normal,alpha cell
+patient3_L13,patient3,normal,alpha cell
+patient3_L14,patient3,normal,alpha cell
+patient3_L16,patient3,normal,ductal cell
+patient3_L17,patient3,normal,beta cell
+patient3_L18,patient3,normal,gamma cell
+patient3_L20,patient3,normal,beta cell
+patient3_L21,patient3,normal,alpha cell
+patient3_L22,patient3,normal,beta cell
+patient3_L24,patient3,normal,unclassified endocrine cell
+patient3_L3,patient3,normal,gamma cell
+patient3_L8,patient3,normal,beta cell
+patient3_L9,patient3,normal,gamma cell
+patient3_M11,patient3,normal,PSC cell
+patient3_M12,patient3,normal,alpha cell
+patient3_M18,patient3,normal,alpha cell
+patient3_M19,patient3,normal,PSC cell
+patient3_M20,patient3,normal,unclassified endocrine cell
+patient3_M21,patient3,normal,delta cell
+patient3_M24,patient3,normal,alpha cell
+patient3_M3,patient3,normal,alpha cell
+patient3_M4,patient3,normal,gamma cell
+patient3_N1,patient3,normal,alpha cell
+patient3_N12,patient3,normal,alpha cell
+patient3_N13,patient3,normal,beta cell
+patient3_N15,patient3,normal,gamma cell
+patient3_N16,patient3,normal,alpha cell
+patient3_N17,patient3,normal,alpha cell
+patient3_N18,patient3,normal,ductal cell
+patient3_N19,patient3,normal,alpha cell
+patient3_N2,patient3,normal,alpha cell
+patient3_N21,patient3,normal,PSC cell
+patient3_N22,patient3,normal,alpha cell
+patient3_N23,patient3,normal,gamma cell
+patient3_N24,patient3,normal,delta cell
+patient3_N7,patient3,normal,alpha cell
+patient3_N8,patient3,normal,beta cell
+patient3_N9,patient3,normal,gamma cell
+patient3_O1,patient3,normal,gamma cell
+patient3_O10,patient3,normal,alpha cell
+patient3_O11,patient3,normal,ductal cell
+patient3_O14,patient3,normal,ductal cell
+patient3_O16,patient3,normal,alpha cell
+patient3_O17,patient3,normal,alpha cell
+patient3_O18,patient3,normal,beta cell
+patient3_O20,patient3,normal,beta cell
+patient3_O21,patient3,normal,gamma cell
+patient3_O24,patient3,normal,gamma cell
+patient3_O4,patient3,normal,ductal cell
+patient3_O5,patient3,normal,gamma cell
+patient3_O6,patient3,normal,alpha cell
+patient3_O7,patient3,normal,alpha cell
+patient3_O8,patient3,normal,beta cell
+patient3_O9,patient3,normal,alpha cell
+patient3_P10,patient3,normal,alpha cell
+patient3_P11,patient3,normal,ductal cell
+patient3_P14,patient3,normal,beta cell
+patient3_P15,patient3,normal,unclassified endocrine cell
+patient3_P18,patient3,normal,endothelial cell
+patient3_P20,patient3,normal,alpha cell
+patient3_P21,patient3,normal,alpha cell
+patient3_P3,patient3,normal,endothelial cell
+patient3_P7,patient3,normal,ductal cell
+patient3_P9,patient3,normal,PSC cell
+patient2_A12,patient2,normal,ductal cell
+patient2_A14,patient2,normal,unclassified endocrine cell
+patient2_A15,patient2,normal,beta cell
+patient2_A17,patient2,normal,beta cell
+patient2_A18,patient2,normal,ductal cell
+patient2_A20,patient2,normal,ductal cell
+patient2_A21,patient2,normal,alpha cell
+patient2_A24,patient2,normal,beta cell
+patient2_A4,patient2,normal,ductal cell
+patient2_A5,patient2,normal,alpha cell
+patient2_A6,patient2,normal,acinar cell
+patient2_A7,patient2,normal,acinar cell
+patient2_A9,patient2,normal,acinar cell
+patient2_B1,patient2,normal,acinar cell
+patient2_B11,patient2,normal,beta cell
+patient2_B14,patient2,normal,acinar cell
+patient2_B15,patient2,normal,PSC cell
+patient2_B16,patient2,normal,acinar cell
+patient2_B17,patient2,normal,ductal cell
+patient2_B20,patient2,normal,PSC cell
+patient2_B22,patient2,normal,gamma cell
+patient2_B23,patient2,normal,ductal cell
+patient2_B24,patient2,normal,ductal cell
+patient2_B3,patient2,normal,gamma cell
+patient2_B4,patient2,normal,gamma cell
+patient2_B5,patient2,normal,acinar cell
+patient2_B6,patient2,normal,acinar cell
+patient2_B8,patient2,normal,co-expression cell
+patient2_C13,patient2,normal,acinar cell
+patient2_C15,patient2,normal,beta cell
+patient2_C16,patient2,normal,ductal cell
+patient2_C17,patient2,normal,ductal cell
+patient2_C18,patient2,normal,unclassified endocrine cell
+patient2_C23,patient2,normal,acinar cell
+patient2_C24,patient2,normal,acinar cell
+patient2_C4,patient2,normal,beta cell
+patient2_C5,patient2,normal,alpha cell
+patient2_C7,patient2,normal,acinar cell
+patient2_C8,patient2,normal,beta cell
+patient2_C9,patient2,normal,beta cell
+patient2_D1,patient2,normal,ductal cell
+patient2_D12,patient2,normal,acinar cell
+patient2_D13,patient2,normal,beta cell
+patient2_D14,patient2,normal,acinar cell
+patient2_D15,patient2,normal,ductal cell
+patient2_D17,patient2,normal,ductal cell
+patient2_D2,patient2,normal,ductal cell
+patient2_D24,patient2,normal,acinar cell
+patient2_D3,patient2,normal,acinar cell
+patient2_D7,patient2,normal,ductal cell
+patient2_D8,patient2,normal,ductal cell
+patient2_D9,patient2,normal,gamma cell
+patient2_E11,patient2,normal,alpha cell
+patient2_E12,patient2,normal,gamma cell
+patient2_E15,patient2,normal,alpha cell
+patient2_E16,patient2,normal,delta cell
+patient2_E17,patient2,normal,ductal cell
+patient2_E18,patient2,normal,acinar cell
+patient2_E20,patient2,normal,acinar cell
+patient2_E23,patient2,normal,acinar cell
+patient2_E24,patient2,normal,acinar cell
+patient2_E4,patient2,normal,unclassified endocrine cell
+patient2_E6,patient2,normal,ductal cell
+patient2_E8,patient2,normal,acinar cell
+patient2_F10,patient2,normal,ductal cell
+patient2_F11,patient2,normal,beta cell
+patient2_F12,patient2,normal,beta cell
+patient2_F13,patient2,normal,alpha cell
+patient2_F16,patient2,normal,acinar cell
+patient2_F17,patient2,normal,alpha cell
+patient2_F18,patient2,normal,beta cell
+patient2_F19,patient2,normal,ductal cell
+patient2_F2,patient2,normal,acinar cell
+patient2_F21,patient2,normal,ductal cell
+patient2_F22,patient2,normal,co-expression cell
+patient2_F23,patient2,normal,ductal cell
+patient2_F24,patient2,normal,beta cell
+patient2_F3,patient2,normal,acinar cell
+patient2_F5,patient2,normal,acinar cell
+patient2_F8,patient2,normal,beta cell
+patient2_F9,patient2,normal,beta cell
+patient2_G1,patient2,normal,alpha cell
+patient2_G11,patient2,normal,delta cell
+patient2_G12,patient2,normal,beta cell
+patient2_G13,patient2,normal,alpha cell
+patient2_G14,patient2,normal,acinar cell
+patient2_G16,patient2,normal,acinar cell
+patient2_G18,patient2,normal,ductal cell
+patient2_G19,patient2,normal,ductal cell
+patient2_G2,patient2,normal,ductal cell
+patient2_G20,patient2,normal,ductal cell
+patient2_G21,patient2,normal,ductal cell
+patient2_G23,patient2,normal,ductal cell
+patient2_G24,patient2,normal,alpha cell
+patient2_G3,patient2,normal,alpha cell
+patient2_G4,patient2,normal,acinar cell
+patient2_G5,patient2,normal,alpha cell
+patient2_G6,patient2,normal,beta cell
+patient2_G8,patient2,normal,gamma cell
+patient2_G9,patient2,normal,beta cell
+patient2_H1,patient2,normal,acinar cell
+patient2_H13,patient2,normal,alpha cell
+patient2_H14,patient2,normal,alpha cell
+patient2_H15,patient2,normal,acinar cell
+patient2_H16,patient2,normal,acinar cell
+patient2_H18,patient2,normal,acinar cell
+patient2_H19,patient2,normal,gamma cell
+patient2_H2,patient2,normal,ductal cell
+patient2_H22,patient2,normal,alpha cell
+patient2_H23,patient2,normal,ductal cell
+patient2_H3,patient2,normal,acinar cell
+patient2_H4,patient2,normal,ductal cell
+patient2_H6,patient2,normal,ductal cell
+patient2_H7,patient2,normal,ductal cell
+patient2_H9,patient2,normal,ductal cell
+patient2_I1,patient2,normal,gamma cell
+patient2_I10,patient2,normal,acinar cell
+patient2_I11,patient2,normal,beta cell
+patient2_I12,patient2,normal,beta cell
+patient2_I13,patient2,normal,acinar cell
+patient2_I14,patient2,normal,gamma cell
+patient2_I15,patient2,normal,acinar cell
+patient2_I17,patient2,normal,gamma cell
+patient2_I18,patient2,normal,acinar cell
+patient2_I2,patient2,normal,gamma cell
+patient2_I21,patient2,normal,ductal cell
+patient2_I23,patient2,normal,beta cell
+patient2_I24,patient2,normal,ductal cell
+patient2_I4,patient2,normal,ductal cell
+patient2_I6,patient2,normal,acinar cell
+patient2_I8,patient2,normal,alpha cell
+patient2_J11,patient2,normal,acinar cell
+patient2_J14,patient2,normal,acinar cell
+patient2_J15,patient2,normal,acinar cell
+patient2_J16,patient2,normal,epsilon cell
+patient2_J17,patient2,normal,beta cell
+patient2_J19,patient2,normal,beta cell
+patient2_J2,patient2,normal,acinar cell
+patient2_J20,patient2,normal,ductal cell
+patient2_J21,patient2,normal,ductal cell
+patient2_J22,patient2,normal,ductal cell
+patient2_J23,patient2,normal,acinar cell
+patient2_J24,patient2,normal,acinar cell
+patient2_J3,patient2,normal,acinar cell
+patient2_J4,patient2,normal,alpha cell
+patient2_J5,patient2,normal,ductal cell
+patient2_J6,patient2,normal,acinar cell
+patient2_J7,patient2,normal,ductal cell
+patient2_J8,patient2,normal,ductal cell
+patient2_J9,patient2,normal,acinar cell
+patient2_K1,patient2,normal,beta cell
+patient2_K12,patient2,normal,alpha cell
+patient2_K14,patient2,normal,acinar cell
+patient2_K15,patient2,normal,acinar cell
+patient2_K16,patient2,normal,ductal cell
+patient2_K17,patient2,normal,ductal cell
+patient2_K18,patient2,normal,unclassified endocrine cell
+patient2_K19,patient2,normal,ductal cell
+patient2_K2,patient2,normal,acinar cell
+patient2_K21,patient2,normal,beta cell
+patient2_K22,patient2,normal,gamma cell
+patient2_K23,patient2,normal,gamma cell
+patient2_K4,patient2,normal,ductal cell
+patient2_K6,patient2,normal,acinar cell
+patient2_L1,patient2,normal,ductal cell
+patient2_L10,patient2,normal,ductal cell
+patient2_L11,patient2,normal,acinar cell
+patient2_L13,patient2,normal,ductal cell
+patient2_L14,patient2,normal,co-expression cell
+patient2_L17,patient2,normal,gamma cell
+patient2_L18,patient2,normal,acinar cell
+patient2_L19,patient2,normal,acinar cell
+patient2_L2,patient2,normal,co-expression cell
+patient2_L20,patient2,normal,ductal cell
+patient2_L21,patient2,normal,ductal cell
+patient2_L22,patient2,normal,acinar cell
+patient2_L23,patient2,normal,alpha cell
+patient2_L3,patient2,normal,acinar cell
+patient2_L4,patient2,normal,ductal cell
+patient2_L5,patient2,normal,beta cell
+patient2_L7,patient2,normal,acinar cell
+patient2_L9,patient2,normal,acinar cell
+patient2_M1,patient2,normal,acinar cell
+patient2_M11,patient2,normal,ductal cell
+patient2_M12,patient2,normal,alpha cell
+patient2_M16,patient2,normal,ductal cell
+patient2_M17,patient2,normal,acinar cell
+patient2_M18,patient2,normal,acinar cell
+patient2_M19,patient2,normal,acinar cell
+patient2_M21,patient2,normal,ductal cell
+patient2_M4,patient2,normal,acinar cell
+patient2_M6,patient2,normal,gamma cell
+patient2_M8,patient2,normal,acinar cell
+patient2_N1,patient2,normal,acinar cell
+patient2_N10,patient2,normal,ductal cell
+patient2_N11,patient2,normal,beta cell
+patient2_N15,patient2,normal,acinar cell
+patient2_N16,patient2,normal,ductal cell
+patient2_N17,patient2,normal,ductal cell
+patient2_N19,patient2,normal,alpha cell
+patient2_N20,patient2,normal,beta cell
+patient2_N22,patient2,normal,acinar cell
+patient2_N23,patient2,normal,acinar cell
+patient2_N24,patient2,normal,acinar cell
+patient2_N4,patient2,normal,alpha cell
+patient2_N5,patient2,normal,acinar cell
+patient2_N9,patient2,normal,acinar cell
+patient2_O10,patient2,normal,beta cell
+patient2_O11,patient2,normal,beta cell
+patient2_O12,patient2,normal,acinar cell
+patient2_O16,patient2,normal,acinar cell
+patient2_O18,patient2,normal,acinar cell
+patient2_O2,patient2,normal,ductal cell
+patient2_O21,patient2,normal,acinar cell
+patient2_O23,patient2,normal,alpha cell
+patient2_O24,patient2,normal,acinar cell
+patient2_O3,patient2,normal,alpha cell
+patient2_O4,patient2,normal,ductal cell
+patient2_O7,patient2,normal,acinar cell
+patient2_O8,patient2,normal,ductal cell
+patient2_P1,patient2,normal,ductal cell
+patient2_P10,patient2,normal,acinar cell
+patient2_P11,patient2,normal,ductal cell
+patient2_P12,patient2,normal,beta cell
+patient2_P14,patient2,normal,beta cell
+patient2_P17,patient2,normal,acinar cell
+patient2_P19,patient2,normal,alpha cell
+patient2_P20,patient2,normal,co-expression cell
+patient2_P21,patient2,normal,ductal cell
+patient2_P22,patient2,normal,ductal cell
+patient2_P23,patient2,normal,acinar cell
+patient2_P3,patient2,normal,alpha cell
+patient2_P4,patient2,normal,ductal cell
+patient2_P5,patient2,normal,ductal cell
+patient4_A10,patient4,type II diabetes mellitus,beta cell
+patient4_A11,patient4,type II diabetes mellitus,acinar cell
+patient4_A12,patient4,type II diabetes mellitus,alpha cell
+patient4_A13,patient4,type II diabetes mellitus,alpha cell
+patient4_A14,patient4,type II diabetes mellitus,alpha cell
+patient4_A15,patient4,type II diabetes mellitus,alpha cell
+patient4_A16,patient4,type II diabetes mellitus,alpha cell
+patient4_A17,patient4,type II diabetes mellitus,ductal cell
+patient4_A19,patient4,type II diabetes mellitus,gamma cell
+patient4_A23,patient4,type II diabetes mellitus,acinar cell
+patient4_A3,patient4,type II diabetes mellitus,alpha cell
+patient4_A4,patient4,type II diabetes mellitus,alpha cell
+patient4_A7,patient4,type II diabetes mellitus,ductal cell
+patient4_A8,patient4,type II diabetes mellitus,PSC cell
+patient4_B10,patient4,type II diabetes mellitus,gamma cell
+patient4_B11,patient4,type II diabetes mellitus,alpha cell
+patient4_B12,patient4,type II diabetes mellitus,alpha cell
+patient4_B14,patient4,type II diabetes mellitus,acinar cell
+patient4_B15,patient4,type II diabetes mellitus,alpha cell
+patient4_B16,patient4,type II diabetes mellitus,beta cell
+patient4_B17,patient4,type II diabetes mellitus,ductal cell
+patient4_B18,patient4,type II diabetes mellitus,ductal cell
+patient4_B19,patient4,type II diabetes mellitus,ductal cell
+patient4_B20,patient4,type II diabetes mellitus,beta cell
+patient4_B21,patient4,type II diabetes mellitus,co-expression cell
+patient4_B23,patient4,type II diabetes mellitus,alpha cell
+patient4_B3,patient4,type II diabetes mellitus,alpha cell
+patient4_B4,patient4,type II diabetes mellitus,alpha cell
+patient4_B5,patient4,type II diabetes mellitus,alpha cell
+patient4_B8,patient4,type II diabetes mellitus,alpha cell
+patient4_B9,patient4,type II diabetes mellitus,alpha cell
+patient4_C10,patient4,type II diabetes mellitus,alpha cell
+patient4_C11,patient4,type II diabetes mellitus,ductal cell
+patient4_C12,patient4,type II diabetes mellitus,PSC cell
+patient4_C13,patient4,type II diabetes mellitus,alpha cell
+patient4_C14,patient4,type II diabetes mellitus,beta cell
+patient4_C15,patient4,type II diabetes mellitus,ductal cell
+patient4_C16,patient4,type II diabetes mellitus,delta cell
+patient4_C17,patient4,type II diabetes mellitus,beta cell
+patient4_C18,patient4,type II diabetes mellitus,ductal cell
+patient4_C19,patient4,type II diabetes mellitus,ductal cell
+patient4_C2,patient4,type II diabetes mellitus,ductal cell
+patient4_C20,patient4,type II diabetes mellitus,alpha cell
+patient4_C23,patient4,type II diabetes mellitus,alpha cell
+patient4_C4,patient4,type II diabetes mellitus,beta cell
+patient4_C8,patient4,type II diabetes mellitus,delta cell
+patient4_C9,patient4,type II diabetes mellitus,MHC class II cell
+patient4_D1,patient4,type II diabetes mellitus,alpha cell
+patient4_D10,patient4,type II diabetes mellitus,alpha cell
+patient4_D11,patient4,type II diabetes mellitus,alpha cell
+patient4_D13,patient4,type II diabetes mellitus,alpha cell
+patient4_D14,patient4,type II diabetes mellitus,alpha cell
+patient4_D15,patient4,type II diabetes mellitus,alpha cell
+patient4_D16,patient4,type II diabetes mellitus,alpha cell
+patient4_D17,patient4,type II diabetes mellitus,alpha cell
+patient4_D18,patient4,type II diabetes mellitus,acinar cell
+patient4_D2,patient4,type II diabetes mellitus,alpha cell
+patient4_D20,patient4,type II diabetes mellitus,alpha cell
+patient4_D21,patient4,type II diabetes mellitus,alpha cell
+patient4_D22,patient4,type II diabetes mellitus,ductal cell
+patient4_D3,patient4,type II diabetes mellitus,alpha cell
+patient4_D5,patient4,type II diabetes mellitus,alpha cell
+patient4_D6,patient4,type II diabetes mellitus,alpha cell
+patient4_D8,patient4,type II diabetes mellitus,alpha cell
+patient4_D9,patient4,type II diabetes mellitus,acinar cell
+patient4_E1,patient4,type II diabetes mellitus,PSC cell
+patient4_E10,patient4,type II diabetes mellitus,alpha cell
+patient4_E11,patient4,type II diabetes mellitus,ductal cell
+patient4_E12,patient4,type II diabetes mellitus,alpha cell
+patient4_E13,patient4,type II diabetes mellitus,alpha cell
+patient4_E14,patient4,type II diabetes mellitus,alpha cell
+patient4_E15,patient4,type II diabetes mellitus,ductal cell
+patient4_E16,patient4,type II diabetes mellitus,ductal cell
+patient4_E17,patient4,type II diabetes mellitus,ductal cell
+patient4_E18,patient4,type II diabetes mellitus,alpha cell
+patient4_E19,patient4,type II diabetes mellitus,alpha cell
+patient4_E2,patient4,type II diabetes mellitus,alpha cell
+patient4_E20,patient4,type II diabetes mellitus,PSC cell
+patient4_E21,patient4,type II diabetes mellitus,alpha cell
+patient4_E22,patient4,type II diabetes mellitus,alpha cell
+patient4_E23,patient4,type II diabetes mellitus,alpha cell
+patient4_E4,patient4,type II diabetes mellitus,acinar cell
+patient4_E6,patient4,type II diabetes mellitus,alpha cell
+patient4_E7,patient4,type II diabetes mellitus,ductal cell
+patient4_E8,patient4,type II diabetes mellitus,alpha cell
+patient4_E9,patient4,type II diabetes mellitus,ductal cell
+patient4_F1,patient4,type II diabetes mellitus,beta cell
+patient4_F11,patient4,type II diabetes mellitus,gamma cell
+patient4_F12,patient4,type II diabetes mellitus,ductal cell
+patient4_F14,patient4,type II diabetes mellitus,MHC class II cell
+patient4_F15,patient4,type II diabetes mellitus,ductal cell
+patient4_F16,patient4,type II diabetes mellitus,alpha cell
+patient4_F17,patient4,type II diabetes mellitus,alpha cell
+patient4_F18,patient4,type II diabetes mellitus,alpha cell
+patient4_F2,patient4,type II diabetes mellitus,alpha cell
+patient4_F20,patient4,type II diabetes mellitus,alpha cell
+patient4_F21,patient4,type II diabetes mellitus,acinar cell
+patient4_F22,patient4,type II diabetes mellitus,unclassified endocrine cell
+patient4_F23,patient4,type II diabetes mellitus,alpha cell
+patient4_F3,patient4,type II diabetes mellitus,beta cell
+patient4_F4,patient4,type II diabetes mellitus,ductal cell
+patient4_F5,patient4,type II diabetes mellitus,ductal cell
+patient4_F7,patient4,type II diabetes mellitus,beta cell
+patient4_F8,patient4,type II diabetes mellitus,ductal cell
+patient4_F9,patient4,type II diabetes mellitus,alpha cell
+patient4_G1,patient4,type II diabetes mellitus,ductal cell
+patient4_G10,patient4,type II diabetes mellitus,alpha cell
+patient4_G11,patient4,type II diabetes mellitus,alpha cell
+patient4_G12,patient4,type II diabetes mellitus,acinar cell
+patient4_G13,patient4,type II diabetes mellitus,ductal cell
+patient4_G14,patient4,type II diabetes mellitus,ductal cell
+patient4_G15,patient4,type II diabetes mellitus,alpha cell
+patient4_G16,patient4,type II diabetes mellitus,unclassified endocrine cell
+patient4_G17,patient4,type II diabetes mellitus,acinar cell
+patient4_G18,patient4,type II diabetes mellitus,acinar cell
+patient4_G19,patient4,type II diabetes mellitus,acinar cell
+patient4_G2,patient4,type II diabetes mellitus,ductal cell
+patient4_G20,patient4,type II diabetes mellitus,alpha cell
+patient4_G21,patient4,type II diabetes mellitus,alpha cell
+patient4_G22,patient4,type II diabetes mellitus,gamma cell
+patient4_G23,patient4,type II diabetes mellitus,acinar cell
+patient4_G3,patient4,type II diabetes mellitus,ductal cell
+patient4_G4,patient4,type II diabetes mellitus,alpha cell
+patient4_G5,patient4,type II diabetes mellitus,beta cell
+patient4_G6,patient4,type II diabetes mellitus,alpha cell
+patient4_G9,patient4,type II diabetes mellitus,unclassified endocrine cell
+patient4_H10,patient4,type II diabetes mellitus,alpha cell
+patient4_H11,patient4,type II diabetes mellitus,delta cell
+patient4_H12,patient4,type II diabetes mellitus,mast cell
+patient4_H13,patient4,type II diabetes mellitus,ductal cell
+patient4_H14,patient4,type II diabetes mellitus,ductal cell
+patient4_H15,patient4,type II diabetes mellitus,alpha cell
+patient4_H16,patient4,type II diabetes mellitus,acinar cell
+patient4_H17,patient4,type II diabetes mellitus,ductal cell
+patient4_H18,patient4,type II diabetes mellitus,gamma cell
+patient4_H2,patient4,type II diabetes mellitus,co-expression cell
+patient4_H21,patient4,type II diabetes mellitus,alpha cell
+patient4_H22,patient4,type II diabetes mellitus,alpha cell
+patient4_H23,patient4,type II diabetes mellitus,alpha cell
+patient4_H3,patient4,type II diabetes mellitus,alpha cell
+patient4_H4,patient4,type II diabetes mellitus,alpha cell
+patient4_H5,patient4,type II diabetes mellitus,PSC cell
+patient4_H6,patient4,type II diabetes mellitus,alpha cell
+patient4_I1,patient4,type II diabetes mellitus,ductal cell
+patient4_I10,patient4,type II diabetes mellitus,acinar cell
+patient4_I11,patient4,type II diabetes mellitus,ductal cell
+patient4_I12,patient4,type II diabetes mellitus,ductal cell
+patient4_I13,patient4,type II diabetes mellitus,ductal cell
+patient4_I14,patient4,type II diabetes mellitus,alpha cell
+patient4_I15,patient4,type II diabetes mellitus,alpha cell
+patient4_I16,patient4,type II diabetes mellitus,alpha cell
+patient4_I17,patient4,type II diabetes mellitus,ductal cell
+patient4_I18,patient4,type II diabetes mellitus,delta cell
+patient4_I19,patient4,type II diabetes mellitus,PSC cell
+patient4_I2,patient4,type II diabetes mellitus,alpha cell
+patient4_I20,patient4,type II diabetes mellitus,alpha cell
+patient4_I21,patient4,type II diabetes mellitus,ductal cell
+patient4_I22,patient4,type II diabetes mellitus,alpha cell
+patient4_I23,patient4,type II diabetes mellitus,delta cell
+patient4_I3,patient4,type II diabetes mellitus,PSC cell
+patient4_I4,patient4,type II diabetes mellitus,ductal cell
+patient4_I7,patient4,type II diabetes mellitus,acinar cell
+patient4_I8,patient4,type II diabetes mellitus,beta cell
+patient4_J1,patient4,type II diabetes mellitus,alpha cell
+patient4_J11,patient4,type II diabetes mellitus,ductal cell
+patient4_J12,patient4,type II diabetes mellitus,alpha cell
+patient4_J13,patient4,type II diabetes mellitus,ductal cell
+patient4_J14,patient4,type II diabetes mellitus,ductal cell
+patient4_J15,patient4,type II diabetes mellitus,ductal cell
+patient4_J16,patient4,type II diabetes mellitus,ductal cell
+patient4_J17,patient4,type II diabetes mellitus,alpha cell
+patient4_J18,patient4,type II diabetes mellitus,delta cell
+patient4_J2,patient4,type II diabetes mellitus,PSC cell
+patient4_J20,patient4,type II diabetes mellitus,alpha cell
+patient4_J21,patient4,type II diabetes mellitus,alpha cell
+patient4_J22,patient4,type II diabetes mellitus,ductal cell
+patient4_J23,patient4,type II diabetes mellitus,acinar cell
+patient4_J3,patient4,type II diabetes mellitus,alpha cell
+patient4_J4,patient4,type II diabetes mellitus,alpha cell
+patient4_J5,patient4,type II diabetes mellitus,alpha cell
+patient4_J6,patient4,type II diabetes mellitus,beta cell
+patient4_J8,patient4,type II diabetes mellitus,alpha cell
+patient4_J9,patient4,type II diabetes mellitus,alpha cell
+patient4_K1,patient4,type II diabetes mellitus,alpha cell
+patient4_K12,patient4,type II diabetes mellitus,alpha cell
+patient4_K14,patient4,type II diabetes mellitus,alpha cell
+patient4_K15,patient4,type II diabetes mellitus,ductal cell
+patient4_K16,patient4,type II diabetes mellitus,gamma cell
+patient4_K17,patient4,type II diabetes mellitus,alpha cell
+patient4_K18,patient4,type II diabetes mellitus,endothelial cell
+patient4_K19,patient4,type II diabetes mellitus,alpha cell
+patient4_K2,patient4,type II diabetes mellitus,ductal cell
+patient4_K20,patient4,type II diabetes mellitus,co-expression cell
+patient4_K21,patient4,type II diabetes mellitus,alpha cell
+patient4_K22,patient4,type II diabetes mellitus,ductal cell
+patient4_K23,patient4,type II diabetes mellitus,ductal cell
+patient4_K3,patient4,type II diabetes mellitus,ductal cell
+patient4_K4,patient4,type II diabetes mellitus,alpha cell
+patient4_K6,patient4,type II diabetes mellitus,acinar cell
+patient4_K7,patient4,type II diabetes mellitus,ductal cell
+patient4_K9,patient4,type II diabetes mellitus,alpha cell
+patient4_L10,patient4,type II diabetes mellitus,PSC cell
+patient4_L11,patient4,type II diabetes mellitus,ductal cell
+patient4_L13,patient4,type II diabetes mellitus,alpha cell
+patient4_L14,patient4,type II diabetes mellitus,alpha cell
+patient4_L15,patient4,type II diabetes mellitus,PSC cell
+patient4_L16,patient4,type II diabetes mellitus,alpha cell
+patient4_L17,patient4,type II diabetes mellitus,alpha cell
+patient4_L18,patient4,type II diabetes mellitus,alpha cell
+patient4_L2,patient4,type II diabetes mellitus,acinar cell
+patient4_L20,patient4,type II diabetes mellitus,ductal cell
+patient4_L21,patient4,type II diabetes mellitus,ductal cell
+patient4_L23,patient4,type II diabetes mellitus,ductal cell
+patient4_L5,patient4,type II diabetes mellitus,ductal cell
+patient4_L6,patient4,type II diabetes mellitus,alpha cell
+patient4_L7,patient4,type II diabetes mellitus,alpha cell
+patient4_L9,patient4,type II diabetes mellitus,ductal cell
+patient4_M1,patient4,type II diabetes mellitus,mast cell
+patient4_M10,patient4,type II diabetes mellitus,PSC cell
+patient4_M11,patient4,type II diabetes mellitus,acinar cell
+patient4_M12,patient4,type II diabetes mellitus,alpha cell
+patient4_M14,patient4,type II diabetes mellitus,beta cell
+patient4_M15,patient4,type II diabetes mellitus,ductal cell
+patient4_M16,patient4,type II diabetes mellitus,PSC cell
+patient4_M17,patient4,type II diabetes mellitus,ductal cell
+patient4_M18,patient4,type II diabetes mellitus,acinar cell
+patient4_M19,patient4,type II diabetes mellitus,alpha cell
+patient4_M20,patient4,type II diabetes mellitus,alpha cell
+patient4_M22,patient4,type II diabetes mellitus,ductal cell
+patient4_M23,patient4,type II diabetes mellitus,ductal cell
+patient4_M3,patient4,type II diabetes mellitus,ductal cell
+patient4_M4,patient4,type II diabetes mellitus,alpha cell
+patient4_M5,patient4,type II diabetes mellitus,alpha cell
+patient4_M7,patient4,type II diabetes mellitus,acinar cell
+patient4_M8,patient4,type II diabetes mellitus,alpha cell
+patient4_M9,patient4,type II diabetes mellitus,alpha cell
+patient4_N1,patient4,type II diabetes mellitus,ductal cell
+patient4_N10,patient4,type II diabetes mellitus,ductal cell
+patient4_N11,patient4,type II diabetes mellitus,alpha cell
+patient4_N13,patient4,type II diabetes mellitus,acinar cell
+patient4_N15,patient4,type II diabetes mellitus,ductal cell
+patient4_N17,patient4,type II diabetes mellitus,ductal cell
+patient4_N18,patient4,type II diabetes mellitus,gamma cell
+patient4_N19,patient4,type II diabetes mellitus,ductal cell
+patient4_N2,patient4,type II diabetes mellitus,ductal cell
+patient4_N20,patient4,type II diabetes mellitus,alpha cell
+patient4_N21,patient4,type II diabetes mellitus,acinar cell
+patient4_N22,patient4,type II diabetes mellitus,ductal cell
+patient4_N23,patient4,type II diabetes mellitus,ductal cell
+patient4_N4,patient4,type II diabetes mellitus,alpha cell
+patient4_N5,patient4,type II diabetes mellitus,alpha cell
+patient4_N6,patient4,type II diabetes mellitus,ductal cell
+patient4_N7,patient4,type II diabetes mellitus,ductal cell
+patient4_N8,patient4,type II diabetes mellitus,ductal cell
+patient4_N9,patient4,type II diabetes mellitus,ductal cell
+patient4_O1,patient4,type II diabetes mellitus,alpha cell
+patient4_O11,patient4,type II diabetes mellitus,acinar cell
+patient4_O12,patient4,type II diabetes mellitus,ductal cell
+patient4_O13,patient4,type II diabetes mellitus,acinar cell
+patient4_O14,patient4,type II diabetes mellitus,alpha cell
+patient4_O3,patient4,type II diabetes mellitus,ductal cell
+patient4_O4,patient4,type II diabetes mellitus,beta cell
+patient4_O7,patient4,type II diabetes mellitus,acinar cell
+patient4_O8,patient4,type II diabetes mellitus,ductal cell
+patient4_O9,patient4,type II diabetes mellitus,ductal cell
+patient4_P1,patient4,type II diabetes mellitus,co-expression cell
+patient4_P11,patient4,type II diabetes mellitus,alpha cell
+patient4_P14,patient4,type II diabetes mellitus,acinar cell
+patient4_P2,patient4,type II diabetes mellitus,acinar cell
+patient4_P3,patient4,type II diabetes mellitus,alpha cell
+patient4_P4,patient4,type II diabetes mellitus,gamma cell
+patient4_P5,patient4,type II diabetes mellitus,co-expression cell
+patient4_P6,patient4,type II diabetes mellitus,alpha cell
+patient4_P7,patient4,type II diabetes mellitus,alpha cell
+patient4_P8,patient4,type II diabetes mellitus,alpha cell
+patient4_P9,patient4,type II diabetes mellitus,alpha cell
